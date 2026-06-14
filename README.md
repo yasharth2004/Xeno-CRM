@@ -2,6 +2,15 @@
 
 AI-native mini CRM for the Xeno engineering take-home. It is an opinionated marketer workspace: describe a campaign goal in natural language, generate the audience, draft copy, launch through a separate stub channel service, and watch delivery/read/click/conversion callbacks update the campaign analytics.
 
+## 🚀 Live Demo
+
+**Hosted at:** https://xeno-crm-production-d8b3.up.railway.app
+
+Open the link and start building campaigns! The app loads with:
+- 48 pre-seeded shoppers with realistic purchase history
+- Suggested audience segments ready to launch
+- Real-time callback simulation as campaigns send
+
 ## Run Locally
 
 ```bash
