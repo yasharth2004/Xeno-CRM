@@ -4,6 +4,7 @@
   "private": true,
   "description": "AI-native mini CRM take-home for shopper segmentation, campaign launch, channel callbacks, and analytics.",
   "scripts": {
+    "start": "node services/dev.js",
     "dev": "node services/dev.js",
     "crm": "node services/crm-server.js",
     "channel": "node services/channel-service.js",
