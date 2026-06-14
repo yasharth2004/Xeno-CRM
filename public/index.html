@@ -1,0 +1,131 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Campaign Copilot</title>
+    <link rel="stylesheet" href="/styles.css">
+  </head>
+  <body>
+    <main class="app-shell">
+      <aside class="sidebar">
+        <div>
+          <p class="eyebrow">Xeno take-home</p>
+          <h1>Campaign Copilot</h1>
+          <p class="sidebar-copy">AI-first CRM for choosing shoppers, writing the message, launching through a stub channel, and reading the receipts.</p>
+        </div>
+        <nav class="nav-tabs" aria-label="Views">
+          <button class="tab active" data-view="copilot">Copilot</button>
+          <button class="tab" data-view="campaigns">Campaigns</button>
+          <button class="tab" data-view="customers">Customers</button>
+          <button class="tab" data-view="events">Events</button>
+        </nav>
+        <div class="system-status">
+          <span class="pulse"></span>
+          <span id="systemStatus">Connecting services</span>
+        </div>
+      </aside>
+
+      <section class="workspace">
+        <header class="topbar">
+          <div>
+            <p class="eyebrow">AI campaign workspace</p>
+            <h2 id="viewTitle">Build a shopper campaign</h2>
+          </div>
+          <div class="topbar-actions">
+            <button id="refreshBtn" class="icon-button" title="Refresh data">Refresh</button>
+            <button id="resetBtn" class="secondary-button">Reset demo</button>
+          </div>
+        </header>
+
+        <section id="copilotView" class="view active-view">
+          <div class="work-grid">
+            <section class="panel composer-panel">
+              <div class="panel-heading">
+                <div>
+                  <p class="eyebrow">Intent</p>
+                  <h3>Describe the audience</h3>
+                </div>
+                <button id="useSuggestedBtn" class="secondary-button">Use suggestion</button>
+              </div>
+              <textarea id="promptInput" rows="4">Bring back high value customers who haven't purchased in 60 days and spent more than 12000 previously.</textarea>
+              <div class="field-row">
+                <label>
+                  Campaign name
+                  <input id="campaignName" value="High Value Winback">
+                </label>
+                <label>
+                  Channel
+                  <select id="channelInput">
+                    <option>WHATSAPP</option>
+                    <option>SMS</option>
+                    <option>EMAIL</option>
+                    <option>RCS</option>
+                  </select>
+                </label>
+              </div>
+              <div class="button-row">
+                <button id="analyzeBtn" class="primary-button">Analyze audience</button>
+                <button id="messageBtn" class="secondary-button">Draft message</button>
+              </div>
+            </section>
+
+            <section class="panel">
+              <div class="panel-heading">
+                <div>
+                  <p class="eyebrow">Audience</p>
+                  <h3 id="audienceCount">No segment yet</h3>
+                </div>
+                <strong id="revenueOpportunity">Rs 0</strong>
+              </div>
+              <pre id="ruleJson" class="rule-json">{}</pre>
+              <div id="audiencePreview" class="audience-list"></div>
+            </section>
+          </div>
+
+          <section class="panel message-panel">
+            <div class="panel-heading">
+              <div>
+                <p class="eyebrow">Personalized copy</p>
+                <h3>Campaign message</h3>
+              </div>
+              <button id="launchBtn" class="primary-button">Launch campaign</button>
+            </div>
+            <textarea id="messageInput" rows="3">Hey {{name}}, we saved a fresh 20% comeback offer on {{category}} for you. Tap today and make your next order feel easy.</textarea>
+          </section>
+
+          <section class="suggestions-strip" id="suggestionsStrip"></section>
+        </section>
+
+        <section id="campaignsView" class="view">
+          <div id="campaignsList" class="campaign-list"></div>
+        </section>
+
+        <section id="customersView" class="view">
+          <div class="table-wrap">
+            <table>
+              <thead>
+                <tr>
+                  <th>Customer</th>
+                  <th>City</th>
+                  <th>Spent</th>
+                  <th>Orders</th>
+                  <th>Last order</th>
+                  <th>Affinity</th>
+                </tr>
+              </thead>
+              <tbody id="customersTable"></tbody>
+            </table>
+          </div>
+        </section>
+
+        <section id="eventsView" class="view">
+          <div id="eventsList" class="events-list"></div>
+        </section>
+      </section>
+    </main>
+
+    <div id="toast" class="toast" role="status" aria-live="polite"></div>
+    <script src="/app.js"></script>
+  </body>
+</html>

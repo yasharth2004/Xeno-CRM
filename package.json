@@ -1,0 +1,15 @@
+{
+  "name": "xeno-campaign-copilot",
+  "version": "1.0.0",
+  "private": true,
+  "description": "AI-native mini CRM take-home for shopper segmentation, campaign launch, channel callbacks, and analytics.",
+  "scripts": {
+    "dev": "node services/dev.js",
+    "crm": "node services/crm-server.js",
+    "channel": "node services/channel-service.js",
+    "seed": "node services/seed.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

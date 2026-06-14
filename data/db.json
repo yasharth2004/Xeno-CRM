@@ -1,0 +1,3406 @@
+{
+  "customers": [
+    {
+      "id": "cus_001",
+      "name": "Aarav Mehta",
+      "email": "aarav.mehta@example.com",
+      "phone": "+919000000000",
+      "city": "Mumbai",
+      "preferredChannel": "WHATSAPP",
+      "preferredCategory": "sneakers",
+      "totalSpent": 9336,
+      "orderCount": 3,
+      "lastOrderDate": "2026-06-04T15:32:26.962Z"
+    },
+    {
+      "id": "cus_002",
+      "name": "Ira Kapoor",
+      "email": "ira.kapoor@example.com",
+      "phone": "+919000013721",
+      "city": "Delhi",
+      "preferredChannel": "SMS",
+      "preferredCategory": "denim",
+      "totalSpent": 42449,
+      "orderCount": 10,
+      "lastOrderDate": "2026-05-21T15:32:26.962Z"
+    },
+    {
+      "id": "cus_003",
+      "name": "Kabir Rao",
+      "email": "kabir.rao@example.com",
+      "phone": "+919000027442",
+      "city": "Bengaluru",
+      "preferredChannel": "EMAIL",
+      "preferredCategory": "coffee",
+      "totalSpent": 29789,
+      "orderCount": 8,
+      "lastOrderDate": "2026-02-19T15:32:26.962Z"
+    },
+    {
+      "id": "cus_004",
+      "name": "Naina Shah",
+      "email": "naina.shah@example.com",
+      "phone": "+919000041163",
+      "city": "Pune",
+      "preferredChannel": "RCS",
+      "preferredCategory": "skincare",
+      "totalSpent": 42382,
+      "orderCount": 9,
+      "lastOrderDate": "2026-04-05T15:32:26.963Z"
+    },
+    {
+      "id": "cus_005",
+      "name": "Vihaan Sen",
+      "email": "vihaan.sen@example.com",
+      "phone": "+919000054884",
+      "city": "Hyderabad",
+      "preferredChannel": "WHATSAPP",
+      "preferredCategory": "activewear",
+      "totalSpent": 46007,
+      "orderCount": 9,
+      "lastOrderDate": "2026-03-22T15:32:26.963Z"
+    },
+    {
+      "id": "cus_006",
+      "name": "Anika Iyer",
+      "email": "anika.iyer@example.com",
+      "phone": "+919000068605",
+      "city": "Chennai",
+      "preferredChannel": "SMS",
+      "preferredCategory": "accessories",
+      "totalSpent": 35260,
+      "orderCount": 6,
+      "lastOrderDate": "2026-03-31T15:32:26.963Z"
+    },
+    {
+      "id": "cus_007",
+      "name": "Reyansh Jain",
+      "email": "reyansh.jain@example.com",
+      "phone": "+919000082326",
+      "city": "Mumbai",
+      "preferredChannel": "EMAIL",
+      "preferredCategory": "sneakers",
+      "totalSpent": 9027,
+      "orderCount": 2,
+      "lastOrderDate": "2026-02-16T15:32:26.963Z"
+    },
+    {
+      "id": "cus_008",
+      "name": "Meera Bose",
+      "email": "meera.bose@example.com",
+      "phone": "+919000096047",
+      "city": "Delhi",
+      "preferredChannel": "RCS",
+      "preferredCategory": "denim",
+      "totalSpent": 40349,
+      "orderCount": 8,
+      "lastOrderDate": "2026-05-08T15:32:26.963Z"
+    },
+    {
+      "id": "cus_009",
+      "name": "Advait Nair",
+      "email": "advait.nair@example.com",
+      "phone": "+919000109768",
+      "city": "Bengaluru",
+      "preferredChannel": "WHATSAPP",
+      "preferredCategory": "coffee",
+      "totalSpent": 2195,
+      "orderCount": 1,
+      "lastOrderDate": "2026-04-01T15:32:26.963Z"
+    },
+    {
+      "id": "cus_010",
+      "name": "Sara Khan",
+      "email": "sara.khan@example.com",
+      "phone": "+919000123489",
+      "city": "Pune",
+      "preferredChannel": "SMS",
+      "preferredCategory": "skincare",
+      "totalSpent": 17278,
+      "orderCount": 3,
+      "lastOrderDate": "2026-03-18T15:32:26.963Z"
+    },
+    {
+      "id": "cus_011",
+      "name": "Arjun Reddy",
+      "email": "arjun.reddy@example.com",
+      "phone": "+919000137210",
+      "city": "Hyderabad",
+      "preferredChannel": "EMAIL",
+      "preferredCategory": "activewear",
+      "totalSpent": 27078,
+      "orderCount": 7,
+      "lastOrderDate": "2026-02-21T15:32:26.963Z"
+    },
+    {
+      "id": "cus_012",
+      "name": "Tara Bhat",
+      "email": "tara.bhat@example.com",
+      "phone": "+919000150931",
+      "city": "Chennai",
+      "preferredChannel": "RCS",
+      "preferredCategory": "accessories",
+      "totalSpent": 6115,
+      "orderCount": 1,
+      "lastOrderDate": "2026-05-30T15:32:26.963Z"
+    },
+    {
+      "id": "cus_013",
+      "name": "Dev Malhotra",
+      "email": "dev.malhotra@example.com",
+      "phone": "+919000164652",
+      "city": "Mumbai",
+      "preferredChannel": "WHATSAPP",
+      "preferredCategory": "sneakers",
+      "totalSpent": 46696,
+      "orderCount": 9,
+      "lastOrderDate": "2026-03-07T15:32:26.963Z"
+    },
+    {
+      "id": "cus_014",
+      "name": "Riya Das",
+      "email": "riya.das@example.com",
+      "phone": "+919000178373",
+      "city": "Delhi",
+      "preferredChannel": "SMS",
+      "preferredCategory": "denim",
+      "totalSpent": 48291,
+      "orderCount": 10,
+      "lastOrderDate": "2026-03-04T15:32:26.963Z"
+    },
+    {
+      "id": "cus_015",
+      "name": "Krish Menon",
+      "email": "krish.menon@example.com",
+      "phone": "+919000192094",
+      "city": "Bengaluru",
+      "preferredChannel": "EMAIL",
+      "preferredCategory": "coffee",
+      "totalSpent": 5042,
+      "orderCount": 1,
+      "lastOrderDate": "2026-03-12T15:32:26.963Z"
+    },
+    {
+      "id": "cus_016",
+      "name": "Zoya Ansari",
+      "email": "zoya.ansari@example.com",
+      "phone": "+919000205815",
+      "city": "Pune",
+      "preferredChannel": "RCS",
+      "preferredCategory": "skincare",
+      "totalSpent": 9193,
+      "orderCount": 2,
+      "lastOrderDate": "2026-05-01T15:32:26.963Z"
+    },
+    {
+      "id": "cus_017",
+      "name": "Neil Chandra",
+      "email": "neil.chandra@example.com",
+      "phone": "+919000219536",
+      "city": "Hyderabad",
+      "preferredChannel": "WHATSAPP",
+      "preferredCategory": "activewear",
+      "totalSpent": 34051,
+      "orderCount": 8,
+      "lastOrderDate": "2026-05-22T15:32:26.963Z"
+    },
+    {
+      "id": "cus_018",
+      "name": "Maya Pillai",
+      "email": "maya.pillai@example.com",
+      "phone": "+919000233257",
+      "city": "Chennai",
+      "preferredChannel": "SMS",
+      "preferredCategory": "accessories",
+      "totalSpent": 14118,
+      "orderCount": 5,
+      "lastOrderDate": "2026-02-12T15:32:26.963Z"
+    },
+    {
+      "id": "cus_019",
+      "name": "Yash Gupta",
+      "email": "yash.gupta@example.com",
+      "phone": "+919000246978",
+      "city": "Mumbai",
+      "preferredChannel": "EMAIL",
+      "preferredCategory": "sneakers",
+      "totalSpent": 25702,
+      "orderCount": 6,
+      "lastOrderDate": "2026-05-14T15:32:26.963Z"
+    },
+    {
+      "id": "cus_020",
+      "name": "Aisha Suri",
+      "email": "aisha.suri@example.com",
+      "phone": "+919000260699",
+      "city": "Delhi",
+      "preferredChannel": "RCS",
+      "preferredCategory": "denim",
+      "totalSpent": 20133,
+      "orderCount": 5,
+      "lastOrderDate": "2026-05-09T15:32:26.963Z"
+    },
+    {
+      "id": "cus_021",
+      "name": "Om Verma",
+      "email": "om.verma@example.com",
+      "phone": "+919000274420",
+      "city": "Bengaluru",
+      "preferredChannel": "WHATSAPP",
+      "preferredCategory": "coffee",
+      "totalSpent": 29936,
+      "orderCount": 8,
+      "lastOrderDate": "2026-03-13T15:32:26.963Z"
+    },
+    {
+      "id": "cus_022",
+      "name": "Kiara Dutt",
+      "email": "kiara.dutt@example.com",
+      "phone": "+919000288141",
+      "city": "Pune",
+      "preferredChannel": "SMS",
+      "preferredCategory": "skincare",
+      "totalSpent": 13262,
+      "orderCount": 3,
+      "lastOrderDate": "2026-03-03T15:32:26.963Z"
+    },
+    {
+      "id": "cus_023",
+      "name": "Rohan Gill",
+      "email": "rohan.gill@example.com",
+      "phone": "+919000301862",
+      "city": "Hyderabad",
+      "preferredChannel": "EMAIL",
+      "preferredCategory": "activewear",
+      "totalSpent": 24198,
+      "orderCount": 5,
+      "lastOrderDate": "2026-01-25T15:32:26.963Z"
+    },
+    {
+      "id": "cus_024",
+      "name": "Myra Joshi",
+      "email": "myra.joshi@example.com",
+      "phone": "+919000315583",
+      "city": "Chennai",
+      "preferredChannel": "RCS",
+      "preferredCategory": "accessories",
+      "totalSpent": 19955,
+      "orderCount": 6,
+      "lastOrderDate": "2026-05-20T15:32:26.963Z"
+    },
+    {
+      "id": "cus_025",
+      "name": "Vivaan Basu",
+      "email": "vivaan.basu@example.com",
+      "phone": "+919000329304",
+      "city": "Mumbai",
+      "preferredChannel": "WHATSAPP",
+      "preferredCategory": "sneakers",
+      "totalSpent": 34079,
+      "orderCount": 8,
+      "lastOrderDate": "2026-02-19T15:32:26.963Z"
+    },
+    {
+      "id": "cus_026",
+      "name": "Dia Grover",
+      "email": "dia.grover@example.com",
+      "phone": "+919000343025",
+      "city": "Delhi",
+      "preferredChannel": "SMS",
+      "preferredCategory": "denim",
+      "totalSpent": 5913,
+      "orderCount": 1,
+      "lastOrderDate": "2026-02-18T15:32:26.963Z"
+    },
+    {
+      "id": "cus_027",
+      "name": "Shaurya Lal",
+      "email": "shaurya.lal@example.com",
+      "phone": "+919000356746",
+      "city": "Bengaluru",
+      "preferredChannel": "EMAIL",
+      "preferredCategory": "coffee",
+      "totalSpent": 31880,
+      "orderCount": 7,
+      "lastOrderDate": "2026-05-03T15:32:26.963Z"
+    },
+    {
+      "id": "cus_028",
+      "name": "Avni Roy",
+      "email": "avni.roy@example.com",
+      "phone": "+919000370467",
+      "city": "Pune",
+      "preferredChannel": "RCS",
+      "preferredCategory": "skincare",
+      "totalSpent": 30845,
+      "orderCount": 7,
+      "lastOrderDate": "2026-06-05T15:32:26.963Z"
+    },
+    {
+      "id": "cus_029",
+      "name": "Ishaan Walia",
+      "email": "ishaan.walia@example.com",
+      "phone": "+919000384188",
+      "city": "Hyderabad",
+      "preferredChannel": "WHATSAPP",
+      "preferredCategory": "activewear",
+      "totalSpent": 29149,
+      "orderCount": 7,
+      "lastOrderDate": "2026-06-03T15:32:26.963Z"
+    },
+    {
+      "id": "cus_030",
+      "name": "Ruhi Sinha",
+      "email": "ruhi.sinha@example.com",
+      "phone": "+919000397909",
+      "city": "Chennai",
+      "preferredChannel": "SMS",
+      "preferredCategory": "accessories",
+      "totalSpent": 7205,
+      "orderCount": 3,
+      "lastOrderDate": "2026-02-04T15:32:26.963Z"
+    },
+    {
+      "id": "cus_031",
+      "name": "Dhruv Bedi",
+      "email": "dhruv.bedi@example.com",
+      "phone": "+919000411630",
+      "city": "Mumbai",
+      "preferredChannel": "EMAIL",
+      "preferredCategory": "sneakers",
+      "totalSpent": 10462,
+      "orderCount": 2,
+      "lastOrderDate": "2026-02-25T15:32:26.963Z"
+    },
+    {
+      "id": "cus_032",
+      "name": "Sia Mathur",
+      "email": "sia.mathur@example.com",
+      "phone": "+919000425351",
+      "city": "Delhi",
+      "preferredChannel": "RCS",
+      "preferredCategory": "denim",
+      "totalSpent": 36768,
+      "orderCount": 9,
+      "lastOrderDate": "2026-04-05T15:32:26.963Z"
+    },
+    {
+      "id": "cus_033",
+      "name": "Aryan Puri",
+      "email": "aryan.puri@example.com",
+      "phone": "+919000439072",
+      "city": "Bengaluru",
+      "preferredChannel": "WHATSAPP",
+      "preferredCategory": "coffee",
+      "totalSpent": 14639,
+      "orderCount": 2,
+      "lastOrderDate": "2026-04-02T15:32:26.963Z"
+    },
+    {
+      "id": "cus_034",
+      "name": "Anaisha Kohli",
+      "email": "anaisha.kohli@example.com",
+      "phone": "+919000452793",
+      "city": "Pune",
+      "preferredChannel": "SMS",
+      "preferredCategory": "skincare",
+      "totalSpent": 13025,
+      "orderCount": 3,
+      "lastOrderDate": "2026-05-03T15:32:26.963Z"
+    },
+    {
+      "id": "cus_035",
+      "name": "Kiaan Arora",
+      "email": "kiaan.arora@example.com",
+      "phone": "+919000466514",
+      "city": "Hyderabad",
+      "preferredChannel": "EMAIL",
+      "preferredCategory": "activewear",
+      "totalSpent": 43889,
+      "orderCount": 7,
+      "lastOrderDate": "2026-04-28T15:32:26.963Z"
+    },
+    {
+      "id": "cus_036",
+      "name": "Misha Trivedi",
+      "email": "misha.trivedi@example.com",
+      "phone": "+919000480235",
+      "city": "Chennai",
+      "preferredChannel": "RCS",
+      "preferredCategory": "accessories",
+      "totalSpent": 35926,
+      "orderCount": 7,
+      "lastOrderDate": "2026-04-30T15:32:26.963Z"
+    },
+    {
+      "id": "cus_037",
+      "name": "Pranav Vyas",
+      "email": "pranav.vyas@example.com",
+      "phone": "+919000493956",
+      "city": "Mumbai",
+      "preferredChannel": "WHATSAPP",
+      "preferredCategory": "sneakers",
+      "totalSpent": 50071,
+      "orderCount": 10,
+      "lastOrderDate": "2026-05-03T15:32:26.963Z"
+    },
+    {
+      "id": "cus_038",
+      "name": "Anaya Saxena",
+      "email": "anaya.saxena@example.com",
+      "phone": "+919000507677",
+      "city": "Delhi",
+      "preferredChannel": "SMS",
+      "preferredCategory": "denim",
+      "totalSpent": 11028,
+      "orderCount": 2,
+      "lastOrderDate": "2026-05-23T15:32:26.963Z"
+    },
+    {
+      "id": "cus_039",
+      "name": "Lakshya Sood",
+      "email": "lakshya.sood@example.com",
+      "phone": "+919000521398",
+      "city": "Bengaluru",
+      "preferredChannel": "EMAIL",
+      "preferredCategory": "coffee",
+      "totalSpent": 40757,
+      "orderCount": 8,
+      "lastOrderDate": "2026-04-06T15:32:26.963Z"
+    },
+    {
+      "id": "cus_040",
+      "name": "Inaya Mirza",
+      "email": "inaya.mirza@example.com",
+      "phone": "+919000535119",
+      "city": "Pune",
+      "preferredChannel": "RCS",
+      "preferredCategory": "skincare",
+      "totalSpent": 34630,
+      "orderCount": 8,
+      "lastOrderDate": "2026-03-31T15:32:26.963Z"
+    },
+    {
+      "id": "cus_041",
+      "name": "Rudra Hegde",
+      "email": "rudra.hegde@example.com",
+      "phone": "+919000548840",
+      "city": "Hyderabad",
+      "preferredChannel": "WHATSAPP",
+      "preferredCategory": "activewear",
+      "totalSpent": 14269,
+      "orderCount": 3,
+      "lastOrderDate": "2026-03-09T15:32:26.963Z"
+    },
+    {
+      "id": "cus_042",
+      "name": "Nyra Shetty",
+      "email": "nyra.shetty@example.com",
+      "phone": "+919000562561",
+      "city": "Chennai",
+      "preferredChannel": "SMS",
+      "preferredCategory": "accessories",
+      "totalSpent": 6832,
+      "orderCount": 1,
+      "lastOrderDate": "2026-02-26T15:32:26.963Z"
+    },
+    {
+      "id": "cus_043",
+      "name": "Ayaan Narang",
+      "email": "ayaan.narang@example.com",
+      "phone": "+919000576282",
+      "city": "Mumbai",
+      "preferredChannel": "EMAIL",
+      "preferredCategory": "sneakers",
+      "totalSpent": 5427,
+      "orderCount": 1,
+      "lastOrderDate": "2026-04-15T15:32:26.963Z"
+    },
+    {
+      "id": "cus_044",
+      "name": "Vanya Chopra",
+      "email": "vanya.chopra@example.com",
+      "phone": "+919000590003",
+      "city": "Delhi",
+      "preferredChannel": "RCS",
+      "preferredCategory": "denim",
+      "totalSpent": 34625,
+      "orderCount": 9,
+      "lastOrderDate": "2026-02-02T15:32:26.963Z"
+    },
+    {
+      "id": "cus_045",
+      "name": "Parth Kulkarni",
+      "email": "parth.kulkarni@example.com",
+      "phone": "+919000603724",
+      "city": "Bengaluru",
+      "preferredChannel": "WHATSAPP",
+      "preferredCategory": "coffee",
+      "totalSpent": 34177,
+      "orderCount": 8,
+      "lastOrderDate": "2026-02-12T15:32:26.963Z"
+    },
+    {
+      "id": "cus_046",
+      "name": "Eva Thomas",
+      "email": "eva.thomas@example.com",
+      "phone": "+919000617445",
+      "city": "Pune",
+      "preferredChannel": "SMS",
+      "preferredCategory": "skincare",
+      "totalSpent": 28516,
+      "orderCount": 5,
+      "lastOrderDate": "2026-05-11T15:32:26.963Z"
+    },
+    {
+      "id": "cus_047",
+      "name": "Vedant Ghosh",
+      "email": "vedant.ghosh@example.com",
+      "phone": "+919000631166",
+      "city": "Hyderabad",
+      "preferredChannel": "EMAIL",
+      "preferredCategory": "activewear",
+      "totalSpent": 19370,
+      "orderCount": 5,
+      "lastOrderDate": "2026-03-22T15:32:26.963Z"
+    },
+    {
+      "id": "cus_048",
+      "name": "Jiya Anand",
+      "email": "jiya.anand@example.com",
+      "phone": "+919000644887",
+      "city": "Chennai",
+      "preferredChannel": "RCS",
+      "preferredCategory": "accessories",
+      "totalSpent": 9471,
+      "orderCount": 3,
+      "lastOrderDate": "2026-05-02T15:32:26.963Z"
+    }
+  ],
+  "orders": [
+    {
+      "id": "ord_cus_001_1",
+      "customerId": "cus_001",
+      "amount": 450,
+      "category": "sneakers",
+      "orderDate": "2026-06-04T15:32:26.961Z"
+    },
+    {
+      "id": "ord_cus_001_2",
+      "customerId": "cus_001",
+      "amount": 7811,
+      "category": "denim",
+      "orderDate": "2026-05-12T15:32:26.962Z"
+    },
+    {
+      "id": "ord_cus_001_3",
+      "customerId": "cus_001",
+      "amount": 1075,
+      "category": "coffee",
+      "orderDate": "2026-04-07T15:32:26.962Z"
+    },
+    {
+      "id": "ord_cus_002_1",
+      "customerId": "cus_002",
+      "amount": 7013,
+      "category": "denim",
+      "orderDate": "2026-05-21T15:32:26.962Z"
+    },
+    {
+      "id": "ord_cus_002_2",
+      "customerId": "cus_002",
+      "amount": 5418,
+      "category": "coffee",
+      "orderDate": "2026-04-22T15:32:26.962Z"
+    },
+    {
+      "id": "ord_cus_002_3",
+      "customerId": "cus_002",
+      "amount": 1458,
+      "category": "skincare",
+      "orderDate": "2026-04-27T15:32:26.962Z"
+    },
+    {
+      "id": "ord_cus_002_4",
+      "customerId": "cus_002",
+      "amount": 1569,
+      "category": "activewear",
+      "orderDate": "2026-02-23T15:32:26.962Z"
+    },
+    {
+      "id": "ord_cus_002_5",
+      "customerId": "cus_002",
+      "amount": 6665,
+      "category": "accessories",
+      "orderDate": "2026-02-14T15:32:26.962Z"
+    },
+    {
+      "id": "ord_cus_002_6",
+      "customerId": "cus_002",
+      "amount": 1381,
+      "category": "sneakers",
+      "orderDate": "2026-01-11T15:32:26.962Z"
+    },
+    {
+      "id": "ord_cus_002_7",
+      "customerId": "cus_002",
+      "amount": 7440,
+      "category": "denim",
+      "orderDate": "2025-12-10T15:32:26.962Z"
+    },
+    {
+      "id": "ord_cus_002_8",
+      "customerId": "cus_002",
+      "amount": 6597,
+      "category": "coffee",
+      "orderDate": "2026-01-01T15:32:26.962Z"
+    },
+    {
+      "id": "ord_cus_002_9",
+      "customerId": "cus_002",
+      "amount": 2011,
+      "category": "skincare",
+      "orderDate": "2026-02-14T15:32:26.962Z"
+    },
+    {
+      "id": "ord_cus_002_10",
+      "customerId": "cus_002",
+      "amount": 2897,
+      "category": "activewear",
+      "orderDate": "2025-10-08T15:32:26.962Z"
+    },
+    {
+      "id": "ord_cus_003_1",
+      "customerId": "cus_003",
+      "amount": 6279,
+      "category": "coffee",
+      "orderDate": "2026-02-19T15:32:26.962Z"
+    },
+    {
+      "id": "ord_cus_003_2",
+      "customerId": "cus_003",
+      "amount": 750,
+      "category": "skincare",
+      "orderDate": "2026-02-07T15:32:26.962Z"
+    },
+    {
+      "id": "ord_cus_003_3",
+      "customerId": "cus_003",
+      "amount": 2795,
+      "category": "activewear",
+      "orderDate": "2025-12-23T15:32:26.962Z"
+    },
+    {
+      "id": "ord_cus_003_4",
+      "customerId": "cus_003",
+      "amount": 3681,
+      "category": "accessories",
+      "orderDate": "2025-12-09T15:32:26.962Z"
+    },
+    {
+      "id": "ord_cus_003_5",
+      "customerId": "cus_003",
+      "amount": 4602,
+      "category": "sneakers",
+      "orderDate": "2025-11-07T15:32:26.962Z"
+    },
+    {
+      "id": "ord_cus_003_6",
+      "customerId": "cus_003",
+      "amount": 2834,
+      "category": "denim",
+      "orderDate": "2025-10-07T15:32:26.962Z"
+    },
+    {
+      "id": "ord_cus_003_7",
+      "customerId": "cus_003",
+      "amount": 1414,
+      "category": "coffee",
+      "orderDate": "2025-10-22T15:32:26.962Z"
+    },
+    {
+      "id": "ord_cus_003_8",
+      "customerId": "cus_003",
+      "amount": 7434,
+      "category": "skincare",
+      "orderDate": "2025-11-27T15:32:26.962Z"
+    },
+    {
+      "id": "ord_cus_004_1",
+      "customerId": "cus_004",
+      "amount": 5954,
+      "category": "skincare",
+      "orderDate": "2026-04-05T15:32:26.962Z"
+    },
+    {
+      "id": "ord_cus_004_2",
+      "customerId": "cus_004",
+      "amount": 2663,
+      "category": "activewear",
+      "orderDate": "2026-03-07T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_004_3",
+      "customerId": "cus_004",
+      "amount": 5096,
+      "category": "accessories",
+      "orderDate": "2026-02-16T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_004_4",
+      "customerId": "cus_004",
+      "amount": 7119,
+      "category": "sneakers",
+      "orderDate": "2026-01-17T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_004_5",
+      "customerId": "cus_004",
+      "amount": 2522,
+      "category": "denim",
+      "orderDate": "2025-12-18T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_004_6",
+      "customerId": "cus_004",
+      "amount": 3334,
+      "category": "coffee",
+      "orderDate": "2025-12-26T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_004_7",
+      "customerId": "cus_004",
+      "amount": 8369,
+      "category": "skincare",
+      "orderDate": "2026-01-23T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_004_8",
+      "customerId": "cus_004",
+      "amount": 5337,
+      "category": "activewear",
+      "orderDate": "2025-10-12T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_004_9",
+      "customerId": "cus_004",
+      "amount": 1988,
+      "category": "accessories",
+      "orderDate": "2026-01-15T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_005_1",
+      "customerId": "cus_005",
+      "amount": 1099,
+      "category": "activewear",
+      "orderDate": "2026-03-22T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_005_2",
+      "customerId": "cus_005",
+      "amount": 5929,
+      "category": "accessories",
+      "orderDate": "2026-02-26T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_005_3",
+      "customerId": "cus_005",
+      "amount": 8666,
+      "category": "sneakers",
+      "orderDate": "2026-01-29T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_005_4",
+      "customerId": "cus_005",
+      "amount": 1108,
+      "category": "denim",
+      "orderDate": "2025-12-31T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_005_5",
+      "customerId": "cus_005",
+      "amount": 7046,
+      "category": "coffee",
+      "orderDate": "2026-01-01T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_005_6",
+      "customerId": "cus_005",
+      "amount": 4577,
+      "category": "skincare",
+      "orderDate": "2026-01-21T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_005_7",
+      "customerId": "cus_005",
+      "amount": 4516,
+      "category": "activewear",
+      "orderDate": "2025-10-23T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_005_8",
+      "customerId": "cus_005",
+      "amount": 5511,
+      "category": "accessories",
+      "orderDate": "2026-01-11T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_005_9",
+      "customerId": "cus_005",
+      "amount": 7555,
+      "category": "sneakers",
+      "orderDate": "2025-12-08T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_006_1",
+      "customerId": "cus_006",
+      "amount": 5696,
+      "category": "accessories",
+      "orderDate": "2026-03-31T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_006_2",
+      "customerId": "cus_006",
+      "amount": 2727,
+      "category": "sneakers",
+      "orderDate": "2026-03-05T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_006_3",
+      "customerId": "cus_006",
+      "amount": 4072,
+      "category": "denim",
+      "orderDate": "2026-02-05T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_006_4",
+      "customerId": "cus_006",
+      "amount": 5668,
+      "category": "coffee",
+      "orderDate": "2026-01-30T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_006_5",
+      "customerId": "cus_006",
+      "amount": 8653,
+      "category": "skincare",
+      "orderDate": "2026-02-11T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_006_6",
+      "customerId": "cus_006",
+      "amount": 8444,
+      "category": "activewear",
+      "orderDate": "2025-11-26T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_007_1",
+      "customerId": "cus_007",
+      "amount": 7283,
+      "category": "sneakers",
+      "orderDate": "2026-02-16T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_007_2",
+      "customerId": "cus_007",
+      "amount": 1744,
+      "category": "denim",
+      "orderDate": "2026-01-20T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_008_1",
+      "customerId": "cus_008",
+      "amount": 6039,
+      "category": "denim",
+      "orderDate": "2026-05-08T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_008_2",
+      "customerId": "cus_008",
+      "amount": 3821,
+      "category": "coffee",
+      "orderDate": "2026-04-18T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_008_3",
+      "customerId": "cus_008",
+      "amount": 4192,
+      "category": "skincare",
+      "orderDate": "2026-04-14T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_008_4",
+      "customerId": "cus_008",
+      "amount": 7221,
+      "category": "activewear",
+      "orderDate": "2026-02-22T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_008_5",
+      "customerId": "cus_008",
+      "amount": 8288,
+      "category": "accessories",
+      "orderDate": "2026-03-29T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_008_6",
+      "customerId": "cus_008",
+      "amount": 2720,
+      "category": "sneakers",
+      "orderDate": "2026-03-04T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_008_7",
+      "customerId": "cus_008",
+      "amount": 6009,
+      "category": "denim",
+      "orderDate": "2025-12-27T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_008_8",
+      "customerId": "cus_008",
+      "amount": 2059,
+      "category": "coffee",
+      "orderDate": "2026-03-06T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_009_1",
+      "customerId": "cus_009",
+      "amount": 2195,
+      "category": "coffee",
+      "orderDate": "2026-04-01T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_010_1",
+      "customerId": "cus_010",
+      "amount": 8174,
+      "category": "skincare",
+      "orderDate": "2026-03-18T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_010_2",
+      "customerId": "cus_010",
+      "amount": 6854,
+      "category": "activewear",
+      "orderDate": "2026-02-21T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_010_3",
+      "customerId": "cus_010",
+      "amount": 2250,
+      "category": "accessories",
+      "orderDate": "2026-02-26T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_011_1",
+      "customerId": "cus_011",
+      "amount": 8889,
+      "category": "activewear",
+      "orderDate": "2026-02-21T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_011_2",
+      "customerId": "cus_011",
+      "amount": 947,
+      "category": "accessories",
+      "orderDate": "2026-02-11T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_011_3",
+      "customerId": "cus_011",
+      "amount": 2181,
+      "category": "sneakers",
+      "orderDate": "2026-01-26T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_011_4",
+      "customerId": "cus_011",
+      "amount": 4882,
+      "category": "denim",
+      "orderDate": "2025-12-17T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_011_5",
+      "customerId": "cus_011",
+      "amount": 6865,
+      "category": "coffee",
+      "orderDate": "2026-01-16T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_011_6",
+      "customerId": "cus_011",
+      "amount": 885,
+      "category": "skincare",
+      "orderDate": "2025-10-09T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_011_7",
+      "customerId": "cus_011",
+      "amount": 2429,
+      "category": "activewear",
+      "orderDate": "2025-08-31T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_012_1",
+      "customerId": "cus_012",
+      "amount": 6115,
+      "category": "accessories",
+      "orderDate": "2026-05-30T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_013_1",
+      "customerId": "cus_013",
+      "amount": 2410,
+      "category": "sneakers",
+      "orderDate": "2026-03-07T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_013_2",
+      "customerId": "cus_013",
+      "amount": 7814,
+      "category": "denim",
+      "orderDate": "2026-02-13T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_013_3",
+      "customerId": "cus_013",
+      "amount": 7938,
+      "category": "coffee",
+      "orderDate": "2026-02-17T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_013_4",
+      "customerId": "cus_013",
+      "amount": 3579,
+      "category": "skincare",
+      "orderDate": "2025-12-16T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_013_5",
+      "customerId": "cus_013",
+      "amount": 8267,
+      "category": "activewear",
+      "orderDate": "2025-11-11T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_013_6",
+      "customerId": "cus_013",
+      "amount": 4939,
+      "category": "accessories",
+      "orderDate": "2026-01-26T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_013_7",
+      "customerId": "cus_013",
+      "amount": 5045,
+      "category": "sneakers",
+      "orderDate": "2026-01-06T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_013_8",
+      "customerId": "cus_013",
+      "amount": 817,
+      "category": "denim",
+      "orderDate": "2025-09-20T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_013_9",
+      "customerId": "cus_013",
+      "amount": 5887,
+      "category": "coffee",
+      "orderDate": "2025-10-22T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_014_1",
+      "customerId": "cus_014",
+      "amount": 1061,
+      "category": "denim",
+      "orderDate": "2026-03-04T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_014_2",
+      "customerId": "cus_014",
+      "amount": 8856,
+      "category": "coffee",
+      "orderDate": "2026-02-23T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_014_3",
+      "customerId": "cus_014",
+      "amount": 2047,
+      "category": "skincare",
+      "orderDate": "2026-01-09T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_014_4",
+      "customerId": "cus_014",
+      "amount": 5974,
+      "category": "activewear",
+      "orderDate": "2025-12-07T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_014_5",
+      "customerId": "cus_014",
+      "amount": 1697,
+      "category": "accessories",
+      "orderDate": "2026-01-31T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_014_6",
+      "customerId": "cus_014",
+      "amount": 4720,
+      "category": "sneakers",
+      "orderDate": "2026-01-13T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_014_7",
+      "customerId": "cus_014",
+      "amount": 7163,
+      "category": "denim",
+      "orderDate": "2025-10-11T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_014_8",
+      "customerId": "cus_014",
+      "amount": 5656,
+      "category": "coffee",
+      "orderDate": "2025-11-05T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_014_9",
+      "customerId": "cus_014",
+      "amount": 3213,
+      "category": "skincare",
+      "orderDate": "2025-09-25T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_014_10",
+      "customerId": "cus_014",
+      "amount": 7904,
+      "category": "activewear",
+      "orderDate": "2025-09-23T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_015_1",
+      "customerId": "cus_015",
+      "amount": 5042,
+      "category": "coffee",
+      "orderDate": "2026-03-12T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_016_1",
+      "customerId": "cus_016",
+      "amount": 6535,
+      "category": "skincare",
+      "orderDate": "2026-05-01T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_016_2",
+      "customerId": "cus_016",
+      "amount": 2658,
+      "category": "activewear",
+      "orderDate": "2026-04-02T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_017_1",
+      "customerId": "cus_017",
+      "amount": 1028,
+      "category": "activewear",
+      "orderDate": "2026-05-22T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_017_2",
+      "customerId": "cus_017",
+      "amount": 6552,
+      "category": "accessories",
+      "orderDate": "2026-05-14T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_017_3",
+      "customerId": "cus_017",
+      "amount": 3747,
+      "category": "sneakers",
+      "orderDate": "2026-05-02T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_017_4",
+      "customerId": "cus_017",
+      "amount": 5867,
+      "category": "denim",
+      "orderDate": "2026-03-11T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_017_5",
+      "customerId": "cus_017",
+      "amount": 8581,
+      "category": "coffee",
+      "orderDate": "2026-03-15T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_017_6",
+      "customerId": "cus_017",
+      "amount": 2622,
+      "category": "skincare",
+      "orderDate": "2026-02-11T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_017_7",
+      "customerId": "cus_017",
+      "amount": 4356,
+      "category": "activewear",
+      "orderDate": "2026-02-03T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_017_8",
+      "customerId": "cus_017",
+      "amount": 1298,
+      "category": "accessories",
+      "orderDate": "2025-11-28T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_018_1",
+      "customerId": "cus_018",
+      "amount": 580,
+      "category": "accessories",
+      "orderDate": "2026-02-12T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_018_2",
+      "customerId": "cus_018",
+      "amount": 2012,
+      "category": "sneakers",
+      "orderDate": "2026-02-02T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_018_3",
+      "customerId": "cus_018",
+      "amount": 8342,
+      "category": "denim",
+      "orderDate": "2025-12-26T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_018_4",
+      "customerId": "cus_018",
+      "amount": 1271,
+      "category": "coffee",
+      "orderDate": "2025-12-23T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_018_5",
+      "customerId": "cus_018",
+      "amount": 1913,
+      "category": "skincare",
+      "orderDate": "2025-11-24T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_019_1",
+      "customerId": "cus_019",
+      "amount": 3823,
+      "category": "sneakers",
+      "orderDate": "2026-05-14T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_019_2",
+      "customerId": "cus_019",
+      "amount": 5172,
+      "category": "denim",
+      "orderDate": "2026-04-20T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_019_3",
+      "customerId": "cus_019",
+      "amount": 1532,
+      "category": "coffee",
+      "orderDate": "2026-04-10T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_019_4",
+      "customerId": "cus_019",
+      "amount": 4372,
+      "category": "skincare",
+      "orderDate": "2026-03-15T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_019_5",
+      "customerId": "cus_019",
+      "amount": 3430,
+      "category": "activewear",
+      "orderDate": "2026-03-03T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_019_6",
+      "customerId": "cus_019",
+      "amount": 7373,
+      "category": "accessories",
+      "orderDate": "2026-01-09T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_020_1",
+      "customerId": "cus_020",
+      "amount": 7807,
+      "category": "denim",
+      "orderDate": "2026-05-09T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_020_2",
+      "customerId": "cus_020",
+      "amount": 927,
+      "category": "coffee",
+      "orderDate": "2026-04-22T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_020_3",
+      "customerId": "cus_020",
+      "amount": 4058,
+      "category": "skincare",
+      "orderDate": "2026-03-30T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_020_4",
+      "customerId": "cus_020",
+      "amount": 3245,
+      "category": "activewear",
+      "orderDate": "2026-03-16T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_020_5",
+      "customerId": "cus_020",
+      "amount": 4096,
+      "category": "accessories",
+      "orderDate": "2026-01-29T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_021_1",
+      "customerId": "cus_021",
+      "amount": 2309,
+      "category": "coffee",
+      "orderDate": "2026-03-13T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_021_2",
+      "customerId": "cus_021",
+      "amount": 4545,
+      "category": "skincare",
+      "orderDate": "2026-02-21T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_021_3",
+      "customerId": "cus_021",
+      "amount": 8659,
+      "category": "activewear",
+      "orderDate": "2026-02-05T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_021_4",
+      "customerId": "cus_021",
+      "amount": 2548,
+      "category": "accessories",
+      "orderDate": "2025-12-28T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_021_5",
+      "customerId": "cus_021",
+      "amount": 665,
+      "category": "sneakers",
+      "orderDate": "2026-01-24T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_021_6",
+      "customerId": "cus_021",
+      "amount": 3793,
+      "category": "denim",
+      "orderDate": "2025-12-13T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_021_7",
+      "customerId": "cus_021",
+      "amount": 3475,
+      "category": "coffee",
+      "orderDate": "2025-11-13T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_021_8",
+      "customerId": "cus_021",
+      "amount": 3942,
+      "category": "skincare",
+      "orderDate": "2025-09-26T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_022_1",
+      "customerId": "cus_022",
+      "amount": 6224,
+      "category": "skincare",
+      "orderDate": "2026-03-03T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_022_2",
+      "customerId": "cus_022",
+      "amount": 4568,
+      "category": "activewear",
+      "orderDate": "2026-02-13T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_022_3",
+      "customerId": "cus_022",
+      "amount": 2470,
+      "category": "accessories",
+      "orderDate": "2026-01-12T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_023_1",
+      "customerId": "cus_023",
+      "amount": 1689,
+      "category": "activewear",
+      "orderDate": "2026-01-25T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_023_2",
+      "customerId": "cus_023",
+      "amount": 8119,
+      "category": "accessories",
+      "orderDate": "2025-12-31T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_023_3",
+      "customerId": "cus_023",
+      "amount": 7316,
+      "category": "sneakers",
+      "orderDate": "2026-01-01T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_023_4",
+      "customerId": "cus_023",
+      "amount": 3015,
+      "category": "denim",
+      "orderDate": "2025-12-02T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_023_5",
+      "customerId": "cus_023",
+      "amount": 4059,
+      "category": "coffee",
+      "orderDate": "2025-11-06T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_024_1",
+      "customerId": "cus_024",
+      "amount": 4070,
+      "category": "accessories",
+      "orderDate": "2026-05-20T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_024_2",
+      "customerId": "cus_024",
+      "amount": 1743,
+      "category": "sneakers",
+      "orderDate": "2026-05-08T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_024_3",
+      "customerId": "cus_024",
+      "amount": 1954,
+      "category": "denim",
+      "orderDate": "2026-04-14T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_024_4",
+      "customerId": "cus_024",
+      "amount": 3421,
+      "category": "coffee",
+      "orderDate": "2026-03-21T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_024_5",
+      "customerId": "cus_024",
+      "amount": 6637,
+      "category": "skincare",
+      "orderDate": "2026-02-13T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_024_6",
+      "customerId": "cus_024",
+      "amount": 2130,
+      "category": "activewear",
+      "orderDate": "2026-04-05T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_025_1",
+      "customerId": "cus_025",
+      "amount": 4473,
+      "category": "sneakers",
+      "orderDate": "2026-02-19T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_025_2",
+      "customerId": "cus_025",
+      "amount": 6415,
+      "category": "denim",
+      "orderDate": "2026-02-01T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_025_3",
+      "customerId": "cus_025",
+      "amount": 6781,
+      "category": "coffee",
+      "orderDate": "2026-01-10T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_025_4",
+      "customerId": "cus_025",
+      "amount": 1553,
+      "category": "skincare",
+      "orderDate": "2025-12-09T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_025_5",
+      "customerId": "cus_025",
+      "amount": 702,
+      "category": "activewear",
+      "orderDate": "2026-01-14T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_025_6",
+      "customerId": "cus_025",
+      "amount": 4842,
+      "category": "accessories",
+      "orderDate": "2025-11-01T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_025_7",
+      "customerId": "cus_025",
+      "amount": 4158,
+      "category": "sneakers",
+      "orderDate": "2025-10-04T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_025_8",
+      "customerId": "cus_025",
+      "amount": 5155,
+      "category": "denim",
+      "orderDate": "2025-09-25T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_026_1",
+      "customerId": "cus_026",
+      "amount": 5913,
+      "category": "denim",
+      "orderDate": "2026-02-18T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_027_1",
+      "customerId": "cus_027",
+      "amount": 8799,
+      "category": "coffee",
+      "orderDate": "2026-05-03T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_027_2",
+      "customerId": "cus_027",
+      "amount": 2855,
+      "category": "skincare",
+      "orderDate": "2026-04-09T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_027_3",
+      "customerId": "cus_027",
+      "amount": 1916,
+      "category": "activewear",
+      "orderDate": "2026-04-15T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_027_4",
+      "customerId": "cus_027",
+      "amount": 803,
+      "category": "accessories",
+      "orderDate": "2026-02-26T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_027_5",
+      "customerId": "cus_027",
+      "amount": 6970,
+      "category": "sneakers",
+      "orderDate": "2026-01-31T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_027_6",
+      "customerId": "cus_027",
+      "amount": 6617,
+      "category": "denim",
+      "orderDate": "2026-01-18T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_027_7",
+      "customerId": "cus_027",
+      "amount": 3920,
+      "category": "coffee",
+      "orderDate": "2026-02-14T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_028_1",
+      "customerId": "cus_028",
+      "amount": 5350,
+      "category": "skincare",
+      "orderDate": "2026-06-05T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_028_2",
+      "customerId": "cus_028",
+      "amount": 851,
+      "category": "activewear",
+      "orderDate": "2026-05-27T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_028_3",
+      "customerId": "cus_028",
+      "amount": 5731,
+      "category": "accessories",
+      "orderDate": "2026-04-22T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_028_4",
+      "customerId": "cus_028",
+      "amount": 1122,
+      "category": "sneakers",
+      "orderDate": "2026-03-28T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_028_5",
+      "customerId": "cus_028",
+      "amount": 4531,
+      "category": "denim",
+      "orderDate": "2026-03-13T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_028_6",
+      "customerId": "cus_028",
+      "amount": 5788,
+      "category": "coffee",
+      "orderDate": "2026-04-01T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_028_7",
+      "customerId": "cus_028",
+      "amount": 7472,
+      "category": "skincare",
+      "orderDate": "2026-04-06T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_029_1",
+      "customerId": "cus_029",
+      "amount": 8590,
+      "category": "activewear",
+      "orderDate": "2026-06-03T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_029_2",
+      "customerId": "cus_029",
+      "amount": 2329,
+      "category": "accessories",
+      "orderDate": "2026-05-12T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_029_3",
+      "customerId": "cus_029",
+      "amount": 1783,
+      "category": "sneakers",
+      "orderDate": "2026-04-18T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_029_4",
+      "customerId": "cus_029",
+      "amount": 1184,
+      "category": "denim",
+      "orderDate": "2026-04-01T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_029_5",
+      "customerId": "cus_029",
+      "amount": 2030,
+      "category": "coffee",
+      "orderDate": "2026-04-12T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_029_6",
+      "customerId": "cus_029",
+      "amount": 4600,
+      "category": "skincare",
+      "orderDate": "2026-04-14T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_029_7",
+      "customerId": "cus_029",
+      "amount": 8633,
+      "category": "activewear",
+      "orderDate": "2025-12-29T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_030_1",
+      "customerId": "cus_030",
+      "amount": 5518,
+      "category": "accessories",
+      "orderDate": "2026-02-04T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_030_2",
+      "customerId": "cus_030",
+      "amount": 546,
+      "category": "sneakers",
+      "orderDate": "2026-01-12T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_030_3",
+      "customerId": "cus_030",
+      "amount": 1141,
+      "category": "denim",
+      "orderDate": "2025-12-24T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_031_1",
+      "customerId": "cus_031",
+      "amount": 4565,
+      "category": "sneakers",
+      "orderDate": "2026-02-25T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_031_2",
+      "customerId": "cus_031",
+      "amount": 5897,
+      "category": "denim",
+      "orderDate": "2026-02-04T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_032_1",
+      "customerId": "cus_032",
+      "amount": 7407,
+      "category": "denim",
+      "orderDate": "2026-04-05T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_032_2",
+      "customerId": "cus_032",
+      "amount": 5292,
+      "category": "coffee",
+      "orderDate": "2026-03-23T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_032_3",
+      "customerId": "cus_032",
+      "amount": 7038,
+      "category": "skincare",
+      "orderDate": "2026-03-16T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_032_4",
+      "customerId": "cus_032",
+      "amount": 1948,
+      "category": "activewear",
+      "orderDate": "2026-01-17T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_032_5",
+      "customerId": "cus_032",
+      "amount": 559,
+      "category": "accessories",
+      "orderDate": "2026-02-20T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_032_6",
+      "customerId": "cus_032",
+      "amount": 3452,
+      "category": "sneakers",
+      "orderDate": "2026-02-04T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_032_7",
+      "customerId": "cus_032",
+      "amount": 5435,
+      "category": "denim",
+      "orderDate": "2025-11-30T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_032_8",
+      "customerId": "cus_032",
+      "amount": 2007,
+      "category": "coffee",
+      "orderDate": "2025-10-26T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_032_9",
+      "customerId": "cus_032",
+      "amount": 3630,
+      "category": "skincare",
+      "orderDate": "2025-08-24T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_033_1",
+      "customerId": "cus_033",
+      "amount": 7193,
+      "category": "coffee",
+      "orderDate": "2026-04-02T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_033_2",
+      "customerId": "cus_033",
+      "amount": 7446,
+      "category": "skincare",
+      "orderDate": "2026-03-23T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_034_1",
+      "customerId": "cus_034",
+      "amount": 4750,
+      "category": "skincare",
+      "orderDate": "2026-05-03T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_034_2",
+      "customerId": "cus_034",
+      "amount": 4025,
+      "category": "activewear",
+      "orderDate": "2026-04-07T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_034_3",
+      "customerId": "cus_034",
+      "amount": 4250,
+      "category": "accessories",
+      "orderDate": "2026-04-11T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_035_1",
+      "customerId": "cus_035",
+      "amount": 8745,
+      "category": "activewear",
+      "orderDate": "2026-04-28T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_035_2",
+      "customerId": "cus_035",
+      "amount": 8057,
+      "category": "accessories",
+      "orderDate": "2026-04-17T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_035_3",
+      "customerId": "cus_035",
+      "amount": 3258,
+      "category": "sneakers",
+      "orderDate": "2026-04-04T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_035_4",
+      "customerId": "cus_035",
+      "amount": 1148,
+      "category": "denim",
+      "orderDate": "2026-02-24T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_035_5",
+      "customerId": "cus_035",
+      "amount": 6497,
+      "category": "coffee",
+      "orderDate": "2026-01-26T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_035_6",
+      "customerId": "cus_035",
+      "amount": 7997,
+      "category": "skincare",
+      "orderDate": "2025-12-09T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_035_7",
+      "customerId": "cus_035",
+      "amount": 8187,
+      "category": "activewear",
+      "orderDate": "2026-02-27T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_036_1",
+      "customerId": "cus_036",
+      "amount": 2843,
+      "category": "accessories",
+      "orderDate": "2026-04-30T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_036_2",
+      "customerId": "cus_036",
+      "amount": 8015,
+      "category": "sneakers",
+      "orderDate": "2026-04-18T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_036_3",
+      "customerId": "cus_036",
+      "amount": 8337,
+      "category": "denim",
+      "orderDate": "2026-03-19T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_036_4",
+      "customerId": "cus_036",
+      "amount": 784,
+      "category": "coffee",
+      "orderDate": "2026-02-20T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_036_5",
+      "customerId": "cus_036",
+      "amount": 7327,
+      "category": "skincare",
+      "orderDate": "2026-01-08T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_036_6",
+      "customerId": "cus_036",
+      "amount": 6444,
+      "category": "activewear",
+      "orderDate": "2026-03-11T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_036_7",
+      "customerId": "cus_036",
+      "amount": 2176,
+      "category": "accessories",
+      "orderDate": "2025-12-01T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_037_1",
+      "customerId": "cus_037",
+      "amount": 7297,
+      "category": "sneakers",
+      "orderDate": "2026-05-03T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_037_2",
+      "customerId": "cus_037",
+      "amount": 7454,
+      "category": "denim",
+      "orderDate": "2026-04-12T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_037_3",
+      "customerId": "cus_037",
+      "amount": 2472,
+      "category": "coffee",
+      "orderDate": "2026-03-18T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_037_4",
+      "customerId": "cus_037",
+      "amount": 3967,
+      "category": "skincare",
+      "orderDate": "2026-02-08T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_037_5",
+      "customerId": "cus_037",
+      "amount": 6599,
+      "category": "activewear",
+      "orderDate": "2026-03-24T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_037_6",
+      "customerId": "cus_037",
+      "amount": 5852,
+      "category": "accessories",
+      "orderDate": "2025-12-29T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_037_7",
+      "customerId": "cus_037",
+      "amount": 3761,
+      "category": "sneakers",
+      "orderDate": "2025-12-04T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_037_8",
+      "customerId": "cus_037",
+      "amount": 4485,
+      "category": "denim",
+      "orderDate": "2026-02-01T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_037_9",
+      "customerId": "cus_037",
+      "amount": 7053,
+      "category": "coffee",
+      "orderDate": "2026-02-28T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_037_10",
+      "customerId": "cus_037",
+      "amount": 1131,
+      "category": "skincare",
+      "orderDate": "2026-02-20T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_038_1",
+      "customerId": "cus_038",
+      "amount": 5453,
+      "category": "denim",
+      "orderDate": "2026-05-23T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_038_2",
+      "customerId": "cus_038",
+      "amount": 5575,
+      "category": "coffee",
+      "orderDate": "2026-04-30T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_039_1",
+      "customerId": "cus_039",
+      "amount": 7076,
+      "category": "coffee",
+      "orderDate": "2026-04-06T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_039_2",
+      "customerId": "cus_039",
+      "amount": 3579,
+      "category": "skincare",
+      "orderDate": "2026-03-09T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_039_3",
+      "customerId": "cus_039",
+      "amount": 8733,
+      "category": "activewear",
+      "orderDate": "2026-03-17T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_039_4",
+      "customerId": "cus_039",
+      "amount": 1390,
+      "category": "accessories",
+      "orderDate": "2026-01-21T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_039_5",
+      "customerId": "cus_039",
+      "amount": 6651,
+      "category": "sneakers",
+      "orderDate": "2025-12-27T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_039_6",
+      "customerId": "cus_039",
+      "amount": 1580,
+      "category": "denim",
+      "orderDate": "2026-01-31T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_039_7",
+      "customerId": "cus_039",
+      "amount": 5631,
+      "category": "coffee",
+      "orderDate": "2026-02-17T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_039_8",
+      "customerId": "cus_039",
+      "amount": 6117,
+      "category": "skincare",
+      "orderDate": "2026-02-09T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_040_1",
+      "customerId": "cus_040",
+      "amount": 1938,
+      "category": "skincare",
+      "orderDate": "2026-03-31T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_040_2",
+      "customerId": "cus_040",
+      "amount": 2673,
+      "category": "activewear",
+      "orderDate": "2026-03-21T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_040_3",
+      "customerId": "cus_040",
+      "amount": 3441,
+      "category": "accessories",
+      "orderDate": "2026-02-09T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_040_4",
+      "customerId": "cus_040",
+      "amount": 1960,
+      "category": "sneakers",
+      "orderDate": "2026-01-15T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_040_5",
+      "customerId": "cus_040",
+      "amount": 8229,
+      "category": "denim",
+      "orderDate": "2026-02-07T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_040_6",
+      "customerId": "cus_040",
+      "amount": 7979,
+      "category": "coffee",
+      "orderDate": "2026-02-19T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_040_7",
+      "customerId": "cus_040",
+      "amount": 7561,
+      "category": "skincare",
+      "orderDate": "2026-02-11T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_040_8",
+      "customerId": "cus_040",
+      "amount": 849,
+      "category": "activewear",
+      "orderDate": "2025-09-23T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_041_1",
+      "customerId": "cus_041",
+      "amount": 7532,
+      "category": "activewear",
+      "orderDate": "2026-03-09T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_041_2",
+      "customerId": "cus_041",
+      "amount": 2066,
+      "category": "accessories",
+      "orderDate": "2026-02-12T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_041_3",
+      "customerId": "cus_041",
+      "amount": 4671,
+      "category": "sneakers",
+      "orderDate": "2026-01-18T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_042_1",
+      "customerId": "cus_042",
+      "amount": 6832,
+      "category": "accessories",
+      "orderDate": "2026-02-26T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_043_1",
+      "customerId": "cus_043",
+      "amount": 5427,
+      "category": "sneakers",
+      "orderDate": "2026-04-15T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_044_1",
+      "customerId": "cus_044",
+      "amount": 3935,
+      "category": "denim",
+      "orderDate": "2026-02-02T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_044_2",
+      "customerId": "cus_044",
+      "amount": 1958,
+      "category": "coffee",
+      "orderDate": "2026-01-25T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_044_3",
+      "customerId": "cus_044",
+      "amount": 1495,
+      "category": "skincare",
+      "orderDate": "2026-01-17T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_044_4",
+      "customerId": "cus_044",
+      "amount": 8605,
+      "category": "activewear",
+      "orderDate": "2025-11-13T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_044_5",
+      "customerId": "cus_044",
+      "amount": 1184,
+      "category": "accessories",
+      "orderDate": "2025-10-29T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_044_6",
+      "customerId": "cus_044",
+      "amount": 5229,
+      "category": "sneakers",
+      "orderDate": "2025-11-09T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_044_7",
+      "customerId": "cus_044",
+      "amount": 3668,
+      "category": "denim",
+      "orderDate": "2025-10-17T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_044_8",
+      "customerId": "cus_044",
+      "amount": 4175,
+      "category": "coffee",
+      "orderDate": "2025-11-03T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_044_9",
+      "customerId": "cus_044",
+      "amount": 4376,
+      "category": "skincare",
+      "orderDate": "2025-10-13T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_045_1",
+      "customerId": "cus_045",
+      "amount": 4508,
+      "category": "coffee",
+      "orderDate": "2026-02-12T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_045_2",
+      "customerId": "cus_045",
+      "amount": 8575,
+      "category": "skincare",
+      "orderDate": "2026-02-04T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_045_3",
+      "customerId": "cus_045",
+      "amount": 2807,
+      "category": "activewear",
+      "orderDate": "2025-12-20T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_045_4",
+      "customerId": "cus_045",
+      "amount": 8627,
+      "category": "accessories",
+      "orderDate": "2025-12-02T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_045_5",
+      "customerId": "cus_045",
+      "amount": 2107,
+      "category": "sneakers",
+      "orderDate": "2025-12-06T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_045_6",
+      "customerId": "cus_045",
+      "amount": 4641,
+      "category": "denim",
+      "orderDate": "2025-11-14T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_045_7",
+      "customerId": "cus_045",
+      "amount": 2336,
+      "category": "coffee",
+      "orderDate": "2025-11-26T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_045_8",
+      "customerId": "cus_045",
+      "amount": 576,
+      "category": "skincare",
+      "orderDate": "2025-11-06T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_046_1",
+      "customerId": "cus_046",
+      "amount": 8818,
+      "category": "skincare",
+      "orderDate": "2026-05-11T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_046_2",
+      "customerId": "cus_046",
+      "amount": 4034,
+      "category": "activewear",
+      "orderDate": "2026-04-14T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_046_3",
+      "customerId": "cus_046",
+      "amount": 8872,
+      "category": "accessories",
+      "orderDate": "2026-03-24T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_046_4",
+      "customerId": "cus_046",
+      "amount": 3747,
+      "category": "sneakers",
+      "orderDate": "2026-03-21T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_046_5",
+      "customerId": "cus_046",
+      "amount": 3045,
+      "category": "denim",
+      "orderDate": "2026-02-28T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_047_1",
+      "customerId": "cus_047",
+      "amount": 7355,
+      "category": "activewear",
+      "orderDate": "2026-03-22T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_047_2",
+      "customerId": "cus_047",
+      "amount": 776,
+      "category": "accessories",
+      "orderDate": "2026-02-26T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_047_3",
+      "customerId": "cus_047",
+      "amount": 4397,
+      "category": "sneakers",
+      "orderDate": "2026-02-16T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_047_4",
+      "customerId": "cus_047",
+      "amount": 5943,
+      "category": "denim",
+      "orderDate": "2026-01-27T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_047_5",
+      "customerId": "cus_047",
+      "amount": 899,
+      "category": "coffee",
+      "orderDate": "2026-01-29T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_048_1",
+      "customerId": "cus_048",
+      "amount": 2400,
+      "category": "accessories",
+      "orderDate": "2026-05-02T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_048_2",
+      "customerId": "cus_048",
+      "amount": 728,
+      "category": "sneakers",
+      "orderDate": "2026-04-15T15:32:26.963Z"
+    },
+    {
+      "id": "ord_cus_048_3",
+      "customerId": "cus_048",
+      "amount": 6343,
+      "category": "denim",
+      "orderDate": "2026-03-27T15:32:26.963Z"
+    }
+  ],
+  "campaigns": [
+    {
+      "id": "cmp_mqdy9o2h_7iivt0",
+      "name": "High Value Winback",
+      "goal": "Bring back high value customers who have not purchased in 60 days and spent more than 12000 previously.",
+      "rule": {
+        "spentGreaterThan": 12000,
+        "lastPurchaseDays": 60
+      },
+      "channel": "WHATSAPP",
+      "message": "Hey {{name}}, we saved a fresh 20% comeback offer on {{category}} for you. Tap today and make your next order feel easy.",
+      "status": "LAUNCHED",
+      "audienceSize": 21,
+      "createdAt": "2026-06-14T15:39:29.177Z"
+    }
+  ],
+  "communications": [
+    {
+      "id": "com_mqdy9o2k_jp0229",
+      "campaignId": "cmp_mqdy9o2h_7iivt0",
+      "customerId": "cus_003",
+      "channel": "WHATSAPP",
+      "recipient": "+919000027442",
+      "message": "Hey Kabir, we saved a fresh 20% comeback offer on coffee for you. Tap today and make your next order feel easy.",
+      "requestId": "req_mqdy9o4n_dc7jd7",
+      "createdAt": "2026-06-14T15:39:29.180Z"
+    },
+    {
+      "id": "com_mqdy9o4v_0xx9v2",
+      "campaignId": "cmp_mqdy9o2h_7iivt0",
+      "customerId": "cus_004",
+      "channel": "WHATSAPP",
+      "recipient": "+919000041163",
+      "message": "Hey Naina, we saved a fresh 20% comeback offer on skincare for you. Tap today and make your next order feel easy.",
+      "requestId": "req_mqdy9o4x_hyzrnj",
+      "createdAt": "2026-06-14T15:39:29.263Z"
+    },
+    {
+      "id": "com_mqdy9o4z_f38722",
+      "campaignId": "cmp_mqdy9o2h_7iivt0",
+      "customerId": "cus_005",
+      "channel": "WHATSAPP",
+      "recipient": "+919000054884",
+      "message": "Hey Vihaan, we saved a fresh 20% comeback offer on activewear for you. Tap today and make your next order feel easy.",
+      "requestId": "req_mqdy9o50_yeyddr",
+      "createdAt": "2026-06-14T15:39:29.267Z"
+    },
+    {
+      "id": "com_mqdy9o51_k3eytn",
+      "campaignId": "cmp_mqdy9o2h_7iivt0",
+      "customerId": "cus_006",
+      "channel": "WHATSAPP",
+      "recipient": "+919000068605",
+      "message": "Hey Anika, we saved a fresh 20% comeback offer on accessories for you. Tap today and make your next order feel easy.",
+      "requestId": "req_mqdy9o52_trrbou",
+      "createdAt": "2026-06-14T15:39:29.269Z"
+    },
+    {
+      "id": "com_mqdy9o53_ujkmix",
+      "campaignId": "cmp_mqdy9o2h_7iivt0",
+      "customerId": "cus_010",
+      "channel": "WHATSAPP",
+      "recipient": "+919000123489",
+      "message": "Hey Sara, we saved a fresh 20% comeback offer on skincare for you. Tap today and make your next order feel easy.",
+      "requestId": "req_mqdy9o54_3s93t9",
+      "createdAt": "2026-06-14T15:39:29.271Z"
+    },
+    {
+      "id": "com_mqdy9o55_2m33dr",
+      "campaignId": "cmp_mqdy9o2h_7iivt0",
+      "customerId": "cus_011",
+      "channel": "WHATSAPP",
+      "recipient": "+919000137210",
+      "message": "Hey Arjun, we saved a fresh 20% comeback offer on activewear for you. Tap today and make your next order feel easy.",
+      "requestId": "req_mqdy9o56_esnpbs",
+      "createdAt": "2026-06-14T15:39:29.273Z"
+    },
+    {
+      "id": "com_mqdy9o57_rdkhua",
+      "campaignId": "cmp_mqdy9o2h_7iivt0",
+      "customerId": "cus_013",
+      "channel": "WHATSAPP",
+      "recipient": "+919000164652",
+      "message": "Hey Dev, we saved a fresh 20% comeback offer on sneakers for you. Tap today and make your next order feel easy.",
+      "requestId": "req_mqdy9o58_njkn36",
+      "createdAt": "2026-06-14T15:39:29.275Z"
+    },
+    {
+      "id": "com_mqdy9o58_lriwyb",
+      "campaignId": "cmp_mqdy9o2h_7iivt0",
+      "customerId": "cus_014",
+      "channel": "WHATSAPP",
+      "recipient": "+919000178373",
+      "message": "Hey Riya, we saved a fresh 20% comeback offer on denim for you. Tap today and make your next order feel easy.",
+      "requestId": "req_mqdy9o59_qmjbly",
+      "createdAt": "2026-06-14T15:39:29.276Z"
+    },
+    {
+      "id": "com_mqdy9o5a_o07jq4",
+      "campaignId": "cmp_mqdy9o2h_7iivt0",
+      "customerId": "cus_018",
+      "channel": "WHATSAPP",
+      "recipient": "+919000233257",
+      "message": "Hey Maya, we saved a fresh 20% comeback offer on accessories for you. Tap today and make your next order feel easy.",
+      "requestId": "req_mqdy9o5c_nwzsoe",
+      "createdAt": "2026-06-14T15:39:29.278Z"
+    },
+    {
+      "id": "com_mqdy9o5e_bbfzcs",
+      "campaignId": "cmp_mqdy9o2h_7iivt0",
+      "customerId": "cus_021",
+      "channel": "WHATSAPP",
+      "recipient": "+919000274420",
+      "message": "Hey Om, we saved a fresh 20% comeback offer on coffee for you. Tap today and make your next order feel easy.",
+      "requestId": "req_mqdy9o5f_1y2m1p",
+      "createdAt": "2026-06-14T15:39:29.282Z"
+    },
+    {
+      "id": "com_mqdy9o5f_ilvkkm",
+      "campaignId": "cmp_mqdy9o2h_7iivt0",
+      "customerId": "cus_022",
+      "channel": "WHATSAPP",
+      "recipient": "+919000288141",
+      "message": "Hey Kiara, we saved a fresh 20% comeback offer on skincare for you. Tap today and make your next order feel easy.",
+      "requestId": "req_mqdy9o5g_7fk00b",
+      "createdAt": "2026-06-14T15:39:29.283Z"
+    },
+    {
+      "id": "com_mqdy9o5g_xxjuhq",
+      "campaignId": "cmp_mqdy9o2h_7iivt0",
+      "customerId": "cus_023",
+      "channel": "WHATSAPP",
+      "recipient": "+919000301862",
+      "message": "Hey Rohan, we saved a fresh 20% comeback offer on activewear for you. Tap today and make your next order feel easy.",
+      "requestId": "req_mqdy9o5h_lrhiz0",
+      "createdAt": "2026-06-14T15:39:29.284Z"
+    },
+    {
+      "id": "com_mqdy9o5h_g8177i",
+      "campaignId": "cmp_mqdy9o2h_7iivt0",
+      "customerId": "cus_025",
+      "channel": "WHATSAPP",
+      "recipient": "+919000329304",
+      "message": "Hey Vivaan, we saved a fresh 20% comeback offer on sneakers for you. Tap today and make your next order feel easy.",
+      "requestId": "req_mqdy9o5i_fxq7ep",
+      "createdAt": "2026-06-14T15:39:29.285Z"
+    },
+    {
+      "id": "com_mqdy9o5i_aqt2kl",
+      "campaignId": "cmp_mqdy9o2h_7iivt0",
+      "customerId": "cus_032",
+      "channel": "WHATSAPP",
+      "recipient": "+919000425351",
+      "message": "Hey Sia, we saved a fresh 20% comeback offer on denim for you. Tap today and make your next order feel easy.",
+      "requestId": "req_mqdy9o5j_s8f75s",
+      "createdAt": "2026-06-14T15:39:29.286Z"
+    },
+    {
+      "id": "com_mqdy9o5j_mwl9jt",
+      "campaignId": "cmp_mqdy9o2h_7iivt0",
+      "customerId": "cus_033",
+      "channel": "WHATSAPP",
+      "recipient": "+919000439072",
+      "message": "Hey Aryan, we saved a fresh 20% comeback offer on coffee for you. Tap today and make your next order feel easy.",
+      "requestId": "req_mqdy9o5j_xs1w72",
+      "createdAt": "2026-06-14T15:39:29.287Z"
+    },
+    {
+      "id": "com_mqdy9o5j_m4co2l",
+      "campaignId": "cmp_mqdy9o2h_7iivt0",
+      "customerId": "cus_039",
+      "channel": "WHATSAPP",
+      "recipient": "+919000521398",
+      "message": "Hey Lakshya, we saved a fresh 20% comeback offer on coffee for you. Tap today and make your next order feel easy.",
+      "requestId": "req_mqdy9o5k_oku6b6",
+      "createdAt": "2026-06-14T15:39:29.287Z"
+    },
+    {
+      "id": "com_mqdy9o5k_vh225z",
+      "campaignId": "cmp_mqdy9o2h_7iivt0",
+      "customerId": "cus_040",
+      "channel": "WHATSAPP",
+      "recipient": "+919000535119",
+      "message": "Hey Inaya, we saved a fresh 20% comeback offer on skincare for you. Tap today and make your next order feel easy.",
+      "requestId": "req_mqdy9o5k_wugs6r",
+      "createdAt": "2026-06-14T15:39:29.288Z"
+    },
+    {
+      "id": "com_mqdy9o5k_jjvy5i",
+      "campaignId": "cmp_mqdy9o2h_7iivt0",
+      "customerId": "cus_041",
+      "channel": "WHATSAPP",
+      "recipient": "+919000548840",
+      "message": "Hey Rudra, we saved a fresh 20% comeback offer on activewear for you. Tap today and make your next order feel easy.",
+      "requestId": "req_mqdy9o5l_ca3dfl",
+      "createdAt": "2026-06-14T15:39:29.288Z"
+    },
+    {
+      "id": "com_mqdy9o5l_rk8qdz",
+      "campaignId": "cmp_mqdy9o2h_7iivt0",
+      "customerId": "cus_044",
+      "channel": "WHATSAPP",
+      "recipient": "+919000590003",
+      "message": "Hey Vanya, we saved a fresh 20% comeback offer on denim for you. Tap today and make your next order feel easy.",
+      "requestId": "req_mqdy9o5m_xhksw2",
+      "createdAt": "2026-06-14T15:39:29.289Z"
+    },
+    {
+      "id": "com_mqdy9o5m_9eg7fn",
+      "campaignId": "cmp_mqdy9o2h_7iivt0",
+      "customerId": "cus_045",
+      "channel": "WHATSAPP",
+      "recipient": "+919000603724",
+      "message": "Hey Parth, we saved a fresh 20% comeback offer on coffee for you. Tap today and make your next order feel easy.",
+      "requestId": "req_mqdy9o5n_xmr3gi",
+      "createdAt": "2026-06-14T15:39:29.290Z"
+    },
+    {
+      "id": "com_mqdy9o5n_etp6c6",
+      "campaignId": "cmp_mqdy9o2h_7iivt0",
+      "customerId": "cus_047",
+      "channel": "WHATSAPP",
+      "recipient": "+919000631166",
+      "message": "Hey Vedant, we saved a fresh 20% comeback offer on activewear for you. Tap today and make your next order feel easy.",
+      "requestId": "req_mqdy9o5n_pfs3d4",
+      "createdAt": "2026-06-14T15:39:29.291Z"
+    }
+  ],
+  "events": [
+    {
+      "id": "evt_mqdy9o2k_x1l1pq",
+      "communicationId": "com_mqdy9o2k_jp0229",
+      "campaignId": "cmp_mqdy9o2h_7iivt0",
+      "type": "SENT",
+      "timestamp": "2026-06-14T15:39:29.180Z",
+      "source": "crm"
+    },
+    {
+      "id": "evt_mqdy9o4v_exq5bc",
+      "communicationId": "com_mqdy9o4v_0xx9v2",
+      "campaignId": "cmp_mqdy9o2h_7iivt0",
+      "type": "SENT",
+      "timestamp": "2026-06-14T15:39:29.263Z",
+      "source": "crm"
+    },
+    {
+      "id": "evt_mqdy9o4z_1nnllw",
+      "communicationId": "com_mqdy9o4z_f38722",
+      "campaignId": "cmp_mqdy9o2h_7iivt0",
+      "type": "SENT",
+      "timestamp": "2026-06-14T15:39:29.267Z",
+      "source": "crm"
+    },
+    {
+      "id": "evt_mqdy9o51_euxh3u",
+      "communicationId": "com_mqdy9o51_k3eytn",
+      "campaignId": "cmp_mqdy9o2h_7iivt0",
+      "type": "SENT",
+      "timestamp": "2026-06-14T15:39:29.269Z",
+      "source": "crm"
+    },
+    {
+      "id": "evt_mqdy9o53_k5tyti",
+      "communicationId": "com_mqdy9o53_ujkmix",
+      "campaignId": "cmp_mqdy9o2h_7iivt0",
+      "type": "SENT",
+      "timestamp": "2026-06-14T15:39:29.271Z",
+      "source": "crm"
+    },
+    {
+      "id": "evt_mqdy9o55_uf6epg",
+      "communicationId": "com_mqdy9o55_2m33dr",
+      "campaignId": "cmp_mqdy9o2h_7iivt0",
+      "type": "SENT",
+      "timestamp": "2026-06-14T15:39:29.273Z",
+      "source": "crm"
+    },
+    {
+      "id": "evt_mqdy9o57_3psjda",
+      "communicationId": "com_mqdy9o57_rdkhua",
+      "campaignId": "cmp_mqdy9o2h_7iivt0",
+      "type": "SENT",
+      "timestamp": "2026-06-14T15:39:29.275Z",
+      "source": "crm"
+    },
+    {
+      "id": "evt_mqdy9o58_d6g8ow",
+      "communicationId": "com_mqdy9o58_lriwyb",
+      "campaignId": "cmp_mqdy9o2h_7iivt0",
+      "type": "SENT",
+      "timestamp": "2026-06-14T15:39:29.276Z",
+      "source": "crm"
+    },
+    {
+      "id": "evt_mqdy9o5a_2p6z8z",
+      "communicationId": "com_mqdy9o5a_o07jq4",
+      "campaignId": "cmp_mqdy9o2h_7iivt0",
+      "type": "SENT",
+      "timestamp": "2026-06-14T15:39:29.278Z",
+      "source": "crm"
+    },
+    {
+      "id": "evt_mqdy9o5e_6ape2h",
+      "communicationId": "com_mqdy9o5e_bbfzcs",
+      "campaignId": "cmp_mqdy9o2h_7iivt0",
+      "type": "SENT",
+      "timestamp": "2026-06-14T15:39:29.282Z",
+      "source": "crm"
+    },
+    {
+      "id": "evt_mqdy9o5f_vl0j29",
+      "communicationId": "com_mqdy9o5f_ilvkkm",
+      "campaignId": "cmp_mqdy9o2h_7iivt0",
+      "type": "SENT",
+      "timestamp": "2026-06-14T15:39:29.283Z",
+      "source": "crm"
+    },
+    {
+      "id": "evt_mqdy9o5g_256d8h",
+      "communicationId": "com_mqdy9o5g_xxjuhq",
+      "campaignId": "cmp_mqdy9o2h_7iivt0",
+      "type": "SENT",
+      "timestamp": "2026-06-14T15:39:29.284Z",
+      "source": "crm"
+    },
+    {
+      "id": "evt_mqdy9o5h_x7w3zc",
+      "communicationId": "com_mqdy9o5h_g8177i",
+      "campaignId": "cmp_mqdy9o2h_7iivt0",
+      "type": "SENT",
+      "timestamp": "2026-06-14T15:39:29.285Z",
+      "source": "crm"
+    },
+    {
+      "id": "evt_mqdy9o5i_yb4ga3",
+      "communicationId": "com_mqdy9o5i_aqt2kl",
+      "campaignId": "cmp_mqdy9o2h_7iivt0",
+      "type": "SENT",
+      "timestamp": "2026-06-14T15:39:29.286Z",
+      "source": "crm"
+    },
+    {
+      "id": "evt_mqdy9o5j_4zzfz7",
+      "communicationId": "com_mqdy9o5j_mwl9jt",
+      "campaignId": "cmp_mqdy9o2h_7iivt0",
+      "type": "SENT",
+      "timestamp": "2026-06-14T15:39:29.287Z",
+      "source": "crm"
+    },
+    {
+      "id": "evt_mqdy9o5j_zammrm",
+      "communicationId": "com_mqdy9o5j_m4co2l",
+      "campaignId": "cmp_mqdy9o2h_7iivt0",
+      "type": "SENT",
+      "timestamp": "2026-06-14T15:39:29.287Z",
+      "source": "crm"
+    },
+    {
+      "id": "evt_mqdy9o5k_3kwb9d",
+      "communicationId": "com_mqdy9o5k_vh225z",
+      "campaignId": "cmp_mqdy9o2h_7iivt0",
+      "type": "SENT",
+      "timestamp": "2026-06-14T15:39:29.288Z",
+      "source": "crm"
+    },
+    {
+      "id": "evt_mqdy9o5k_pmsgp4",
+      "communicationId": "com_mqdy9o5k_jjvy5i",
+      "campaignId": "cmp_mqdy9o2h_7iivt0",
+      "type": "SENT",
+      "timestamp": "2026-06-14T15:39:29.288Z",
+      "source": "crm"
+    },
+    {
+      "id": "evt_mqdy9o5l_2eoize",
+      "communicationId": "com_mqdy9o5l_rk8qdz",
+      "campaignId": "cmp_mqdy9o2h_7iivt0",
+      "type": "SENT",
+      "timestamp": "2026-06-14T15:39:29.289Z",
+      "source": "crm"
+    },
+    {
+      "id": "evt_mqdy9o5m_7zftn4",
+      "communicationId": "com_mqdy9o5m_9eg7fn",
+      "campaignId": "cmp_mqdy9o2h_7iivt0",
+      "type": "SENT",
+      "timestamp": "2026-06-14T15:39:29.290Z",
+      "source": "crm"
+    },
+    {
+      "id": "evt_mqdy9o5n_9mad71",
+      "communicationId": "com_mqdy9o5n_etp6c6",
+      "campaignId": "cmp_mqdy9o2h_7iivt0",
+      "type": "SENT",
+      "timestamp": "2026-06-14T15:39:29.291Z",
+      "source": "crm"
+    },
+    {
+      "id": "evt_mqdy9p55_uy5xzt",
+      "communicationId": "com_mqdy9o5e_bbfzcs",
+      "campaignId": "cmp_mqdy9o2h_7iivt0",
+      "type": "DELIVERED",
+      "timestamp": "2026-06-14T15:39:30.546Z",
+      "source": "channel",
+      "sourceRequestId": "req_mqdy9o5f_1y2m1p",
+      "meta": {
+        "simulated": true,
+        "channel": "WHATSAPP"
+      }
+    },
+    {
+      "id": "evt_mqdy9p59_zpoazj",
+      "communicationId": "com_mqdy9o5l_rk8qdz",
+      "campaignId": "cmp_mqdy9o2h_7iivt0",
+      "type": "DELIVERED",
+      "timestamp": "2026-06-14T15:39:30.253Z",
+      "source": "channel",
+      "sourceRequestId": "req_mqdy9o5m_xhksw2",
+      "meta": {
+        "simulated": true,
+        "channel": "WHATSAPP"
+      }
+    },
+    {
+      "id": "evt_mqdy9p5d_hjfl21",
+      "communicationId": "com_mqdy9o4z_f38722",
+      "campaignId": "cmp_mqdy9o2h_7iivt0",
+      "type": "DELIVERED",
+      "timestamp": "2026-06-14T15:39:30.550Z",
+      "source": "channel",
+      "sourceRequestId": "req_mqdy9o50_yeyddr",
+      "meta": {
+        "simulated": true,
+        "channel": "WHATSAPP"
+      }
+    },
+    {
+      "id": "evt_mqdy9p5g_6d8vfh",
+      "communicationId": "com_mqdy9o5k_jjvy5i",
+      "campaignId": "cmp_mqdy9o2h_7iivt0",
+      "type": "DELIVERED",
+      "timestamp": "2026-06-14T15:39:30.555Z",
+      "source": "channel",
+      "sourceRequestId": "req_mqdy9o5l_ca3dfl",
+      "meta": {
+        "simulated": true,
+        "channel": "WHATSAPP"
+      }
+    },
+    {
+      "id": "evt_mqdy9p5k_malc4u",
+      "communicationId": "com_mqdy9o5i_aqt2kl",
+      "campaignId": "cmp_mqdy9o2h_7iivt0",
+      "type": "DELIVERED",
+      "timestamp": "2026-06-14T15:39:30.557Z",
+      "source": "channel",
+      "sourceRequestId": "req_mqdy9o5j_s8f75s",
+      "meta": {
+        "simulated": true,
+        "channel": "WHATSAPP"
+      }
+    },
+    {
+      "id": "evt_mqdy9p5s_c0hjrc",
+      "communicationId": "com_mqdy9o5n_etp6c6",
+      "campaignId": "cmp_mqdy9o2h_7iivt0",
+      "type": "DELIVERED",
+      "timestamp": "2026-06-14T15:39:30.559Z",
+      "source": "channel",
+      "sourceRequestId": "req_mqdy9o5n_pfs3d4",
+      "meta": {
+        "simulated": true,
+        "channel": "WHATSAPP"
+      }
+    },
+    {
+      "id": "evt_mqdy9p63_45jdr2",
+      "communicationId": "com_mqdy9o5g_xxjuhq",
+      "campaignId": "cmp_mqdy9o2h_7iivt0",
+      "type": "DELIVERED",
+      "timestamp": "2026-06-14T15:39:30.598Z",
+      "source": "channel",
+      "sourceRequestId": "req_mqdy9o5h_lrhiz0",
+      "meta": {
+        "simulated": true,
+        "channel": "WHATSAPP"
+      }
+    },
+    {
+      "id": "evt_mqdy9p97_t1lh2z",
+      "communicationId": "com_mqdy9o53_ujkmix",
+      "campaignId": "cmp_mqdy9o2h_7iivt0",
+      "type": "DELIVERED",
+      "timestamp": "2026-06-14T15:39:30.711Z",
+      "source": "channel",
+      "sourceRequestId": "req_mqdy9o54_3s93t9",
+      "meta": {
+        "simulated": true,
+        "channel": "WHATSAPP"
+      }
+    },
+    {
+      "id": "evt_mqdy9p9c_czcy2b",
+      "communicationId": "com_mqdy9o58_lriwyb",
+      "campaignId": "cmp_mqdy9o2h_7iivt0",
+      "type": "DELIVERED",
+      "timestamp": "2026-06-14T15:39:30.713Z",
+      "source": "channel",
+      "sourceRequestId": "req_mqdy9o59_qmjbly",
+      "meta": {
+        "simulated": true,
+        "channel": "WHATSAPP"
+      }
+    },
+    {
+      "id": "evt_mqdy9pad_uwaqj9",
+      "communicationId": "com_mqdy9o51_k3eytn",
+      "campaignId": "cmp_mqdy9o2h_7iivt0",
+      "type": "DELIVERED",
+      "timestamp": "2026-06-14T15:39:30.752Z",
+      "source": "channel",
+      "sourceRequestId": "req_mqdy9o52_trrbou",
+      "meta": {
+        "simulated": true,
+        "channel": "WHATSAPP"
+      }
+    },
+    {
+      "id": "evt_mqdy9paz_3fxm2y",
+      "communicationId": "com_mqdy9o57_rdkhua",
+      "campaignId": "cmp_mqdy9o2h_7iivt0",
+      "type": "DELIVERED",
+      "timestamp": "2026-06-14T15:39:30.776Z",
+      "source": "channel",
+      "sourceRequestId": "req_mqdy9o58_njkn36",
+      "meta": {
+        "simulated": true,
+        "channel": "WHATSAPP"
+      }
+    },
+    {
+      "id": "evt_mqdy9pbh_2g5y1d",
+      "communicationId": "com_mqdy9o5a_o07jq4",
+      "campaignId": "cmp_mqdy9o2h_7iivt0",
+      "type": "DELIVERED",
+      "timestamp": "2026-06-14T15:39:30.789Z",
+      "source": "channel",
+      "sourceRequestId": "req_mqdy9o5c_nwzsoe",
+      "meta": {
+        "simulated": true,
+        "channel": "WHATSAPP"
+      }
+    },
+    {
+      "id": "evt_mqdy9pdj_nh370z",
+      "communicationId": "com_mqdy9o2k_jp0229",
+      "campaignId": "cmp_mqdy9o2h_7iivt0",
+      "type": "DELIVERED",
+      "timestamp": "2026-06-14T15:39:30.868Z",
+      "source": "channel",
+      "sourceRequestId": "req_mqdy9o4n_dc7jd7",
+      "meta": {
+        "simulated": true,
+        "channel": "WHATSAPP"
+      }
+    },
+    {
+      "id": "evt_mqdy9pf6_ma9lxg",
+      "communicationId": "com_mqdy9o5h_g8177i",
+      "campaignId": "cmp_mqdy9o2h_7iivt0",
+      "type": "DELIVERED",
+      "timestamp": "2026-06-14T15:39:30.893Z",
+      "source": "channel",
+      "sourceRequestId": "req_mqdy9o5i_fxq7ep",
+      "meta": {
+        "simulated": true,
+        "channel": "WHATSAPP"
+      }
+    },
+    {
+      "id": "evt_mqdy9pfa_tayv24",
+      "communicationId": "com_mqdy9o55_2m33dr",
+      "campaignId": "cmp_mqdy9o2h_7iivt0",
+      "type": "DELIVERED",
+      "timestamp": "2026-06-14T15:39:30.908Z",
+      "source": "channel",
+      "sourceRequestId": "req_mqdy9o56_esnpbs",
+      "meta": {
+        "simulated": true,
+        "channel": "WHATSAPP"
+      }
+    },
+    {
+      "id": "evt_mqdy9pfc_0k7tm2",
+      "communicationId": "com_mqdy9o5j_m4co2l",
+      "campaignId": "cmp_mqdy9o2h_7iivt0",
+      "type": "DELIVERED",
+      "timestamp": "2026-06-14T15:39:30.933Z",
+      "source": "channel",
+      "sourceRequestId": "req_mqdy9o5k_oku6b6",
+      "meta": {
+        "simulated": true,
+        "channel": "WHATSAPP"
+      }
+    },
+    {
+      "id": "evt_mqdy9pff_tdw55k",
+      "communicationId": "com_mqdy9o5j_mwl9jt",
+      "campaignId": "cmp_mqdy9o2h_7iivt0",
+      "type": "DELIVERED",
+      "timestamp": "2026-06-14T15:39:30.934Z",
+      "source": "channel",
+      "sourceRequestId": "req_mqdy9o5j_xs1w72",
+      "meta": {
+        "simulated": true,
+        "channel": "WHATSAPP"
+      }
+    },
+    {
+      "id": "evt_mqdy9pg6_e99ut4",
+      "communicationId": "com_mqdy9o4v_0xx9v2",
+      "campaignId": "cmp_mqdy9o2h_7iivt0",
+      "type": "DELIVERED",
+      "timestamp": "2026-06-14T15:39:30.959Z",
+      "source": "channel",
+      "sourceRequestId": "req_mqdy9o4x_hyzrnj",
+      "meta": {
+        "simulated": true,
+        "channel": "WHATSAPP"
+      }
+    },
+    {
+      "id": "evt_mqdy9phd_yf1h6x",
+      "communicationId": "com_mqdy9o5f_ilvkkm",
+      "campaignId": "cmp_mqdy9o2h_7iivt0",
+      "type": "DELIVERED",
+      "timestamp": "2026-06-14T15:39:31.005Z",
+      "source": "channel",
+      "sourceRequestId": "req_mqdy9o5g_7fk00b",
+      "meta": {
+        "simulated": true,
+        "channel": "WHATSAPP"
+      }
+    },
+    {
+      "id": "evt_mqdy9piz_9dlrun",
+      "communicationId": "com_mqdy9o5k_vh225z",
+      "campaignId": "cmp_mqdy9o2h_7iivt0",
+      "type": "DELIVERED",
+      "timestamp": "2026-06-14T15:39:31.064Z",
+      "source": "channel",
+      "sourceRequestId": "req_mqdy9o5k_wugs6r",
+      "meta": {
+        "simulated": true,
+        "channel": "WHATSAPP"
+      }
+    },
+    {
+      "id": "evt_mqdy9pjk_i3pr2n",
+      "communicationId": "com_mqdy9o5m_9eg7fn",
+      "campaignId": "cmp_mqdy9o2h_7iivt0",
+      "type": "DELIVERED",
+      "timestamp": "2026-06-14T15:39:31.086Z",
+      "source": "channel",
+      "sourceRequestId": "req_mqdy9o5n_xmr3gi",
+      "meta": {
+        "simulated": true,
+        "channel": "WHATSAPP"
+      }
+    },
+    {
+      "id": "evt_mqdy9pxx_q6b6xn",
+      "communicationId": "com_mqdy9o5k_jjvy5i",
+      "campaignId": "cmp_mqdy9o2h_7iivt0",
+      "type": "OPENED",
+      "timestamp": "2026-06-14T15:39:31.603Z",
+      "source": "channel",
+      "sourceRequestId": "req_mqdy9o5l_ca3dfl",
+      "meta": {
+        "simulated": true,
+        "channel": "WHATSAPP"
+      }
+    },
+    {
+      "id": "evt_mqdy9pyr_291x57",
+      "communicationId": "com_mqdy9o5a_o07jq4",
+      "campaignId": "cmp_mqdy9o2h_7iivt0",
+      "type": "OPENED",
+      "timestamp": "2026-06-14T15:39:31.634Z",
+      "source": "channel",
+      "sourceRequestId": "req_mqdy9o5c_nwzsoe",
+      "meta": {
+        "simulated": true,
+        "channel": "WHATSAPP"
+      }
+    },
+    {
+      "id": "evt_mqdy9q31_jrszw9",
+      "communicationId": "com_mqdy9o5l_rk8qdz",
+      "campaignId": "cmp_mqdy9o2h_7iivt0",
+      "type": "OPENED",
+      "timestamp": "2026-06-14T15:39:31.788Z",
+      "source": "channel",
+      "sourceRequestId": "req_mqdy9o5m_xhksw2",
+      "meta": {
+        "simulated": true,
+        "channel": "WHATSAPP"
+      }
+    },
+    {
+      "id": "evt_mqdy9q40_rwonui",
+      "communicationId": "com_mqdy9o5e_bbfzcs",
+      "campaignId": "cmp_mqdy9o2h_7iivt0",
+      "type": "OPENED",
+      "timestamp": "2026-06-14T15:39:31.822Z",
+      "source": "channel",
+      "sourceRequestId": "req_mqdy9o5f_1y2m1p",
+      "meta": {
+        "simulated": true,
+        "channel": "WHATSAPP"
+      }
+    },
+    {
+      "id": "evt_mqdy9q6z_2b74om",
+      "communicationId": "com_mqdy9o5g_xxjuhq",
+      "campaignId": "cmp_mqdy9o2h_7iivt0",
+      "type": "OPENED",
+      "timestamp": "2026-06-14T15:39:31.927Z",
+      "source": "channel",
+      "sourceRequestId": "req_mqdy9o5h_lrhiz0",
+      "meta": {
+        "simulated": true,
+        "channel": "WHATSAPP"
+      }
+    },
+    {
+      "id": "evt_mqdy9qcu_ij6ki8",
+      "communicationId": "com_mqdy9o5h_g8177i",
+      "campaignId": "cmp_mqdy9o2h_7iivt0",
+      "type": "OPENED",
+      "timestamp": "2026-06-14T15:39:32.141Z",
+      "source": "channel",
+      "sourceRequestId": "req_mqdy9o5i_fxq7ep",
+      "meta": {
+        "simulated": true,
+        "channel": "WHATSAPP"
+      }
+    },
+    {
+      "id": "evt_mqdy9qeo_wjdrj8",
+      "communicationId": "com_mqdy9o55_2m33dr",
+      "campaignId": "cmp_mqdy9o2h_7iivt0",
+      "type": "OPENED",
+      "timestamp": "2026-06-14T15:39:32.206Z",
+      "source": "channel",
+      "sourceRequestId": "req_mqdy9o56_esnpbs",
+      "meta": {
+        "simulated": true,
+        "channel": "WHATSAPP"
+      }
+    },
+    {
+      "id": "evt_mqdy9qgb_c5gsp3",
+      "communicationId": "com_mqdy9o53_ujkmix",
+      "campaignId": "cmp_mqdy9o2h_7iivt0",
+      "type": "OPENED",
+      "timestamp": "2026-06-14T15:39:32.265Z",
+      "source": "channel",
+      "sourceRequestId": "req_mqdy9o54_3s93t9",
+      "meta": {
+        "simulated": true,
+        "channel": "WHATSAPP"
+      }
+    },
+    {
+      "id": "evt_mqdy9qhz_tao2pr",
+      "communicationId": "com_mqdy9o5m_9eg7fn",
+      "campaignId": "cmp_mqdy9o2h_7iivt0",
+      "type": "OPENED",
+      "timestamp": "2026-06-14T15:39:32.324Z",
+      "source": "channel",
+      "sourceRequestId": "req_mqdy9o5n_xmr3gi",
+      "meta": {
+        "simulated": true,
+        "channel": "WHATSAPP"
+      }
+    },
+    {
+      "id": "evt_mqdy9qj5_m6qrd8",
+      "communicationId": "com_mqdy9o58_lriwyb",
+      "campaignId": "cmp_mqdy9o2h_7iivt0",
+      "type": "OPENED",
+      "timestamp": "2026-06-14T15:39:32.366Z",
+      "source": "channel",
+      "sourceRequestId": "req_mqdy9o59_qmjbly",
+      "meta": {
+        "simulated": true,
+        "channel": "WHATSAPP"
+      }
+    },
+    {
+      "id": "evt_mqdy9ql8_zq9t4d",
+      "communicationId": "com_mqdy9o5f_ilvkkm",
+      "campaignId": "cmp_mqdy9o2h_7iivt0",
+      "type": "OPENED",
+      "timestamp": "2026-06-14T15:39:32.442Z",
+      "source": "channel",
+      "sourceRequestId": "req_mqdy9o5g_7fk00b",
+      "meta": {
+        "simulated": true,
+        "channel": "WHATSAPP"
+      }
+    },
+    {
+      "id": "evt_mqdy9qle_2wnyaa",
+      "communicationId": "com_mqdy9o51_k3eytn",
+      "campaignId": "cmp_mqdy9o2h_7iivt0",
+      "type": "OPENED",
+      "timestamp": "2026-06-14T15:39:32.449Z",
+      "source": "channel",
+      "sourceRequestId": "req_mqdy9o52_trrbou",
+      "meta": {
+        "simulated": true,
+        "channel": "WHATSAPP"
+      }
+    },
+    {
+      "id": "evt_mqdy9r0s_bbxj13",
+      "communicationId": "com_mqdy9o5e_bbfzcs",
+      "campaignId": "cmp_mqdy9o2h_7iivt0",
+      "type": "READ",
+      "timestamp": "2026-06-14T15:39:33.003Z",
+      "source": "channel",
+      "sourceRequestId": "req_mqdy9o5f_1y2m1p",
+      "meta": {
+        "simulated": true,
+        "channel": "WHATSAPP"
+      }
+    },
+    {
+      "id": "evt_mqdy9r1e_iyfyar",
+      "communicationId": "com_mqdy9o5a_o07jq4",
+      "campaignId": "cmp_mqdy9o2h_7iivt0",
+      "type": "READ",
+      "timestamp": "2026-06-14T15:39:33.025Z",
+      "source": "channel",
+      "sourceRequestId": "req_mqdy9o5c_nwzsoe",
+      "meta": {
+        "simulated": true,
+        "channel": "WHATSAPP"
+      }
+    },
+    {
+      "id": "evt_mqdy9r24_3dei7j",
+      "communicationId": "com_mqdy9o51_k3eytn",
+      "campaignId": "cmp_mqdy9o2h_7iivt0",
+      "type": "READ",
+      "timestamp": "2026-06-14T15:39:33.051Z",
+      "source": "channel",
+      "sourceRequestId": "req_mqdy9o52_trrbou",
+      "meta": {
+        "simulated": true,
+        "channel": "WHATSAPP"
+      }
+    },
+    {
+      "id": "evt_mqdy9r3e_l3cg5s",
+      "communicationId": "com_mqdy9o55_2m33dr",
+      "campaignId": "cmp_mqdy9o2h_7iivt0",
+      "type": "READ",
+      "timestamp": "2026-06-14T15:39:33.096Z",
+      "source": "channel",
+      "sourceRequestId": "req_mqdy9o56_esnpbs",
+      "meta": {
+        "simulated": true,
+        "channel": "WHATSAPP"
+      }
+    },
+    {
+      "id": "evt_mqdy9r9m_f3ozbc",
+      "communicationId": "com_mqdy9o5m_9eg7fn",
+      "campaignId": "cmp_mqdy9o2h_7iivt0",
+      "type": "READ",
+      "timestamp": "2026-06-14T15:39:33.320Z",
+      "source": "channel",
+      "sourceRequestId": "req_mqdy9o5n_xmr3gi",
+      "meta": {
+        "simulated": true,
+        "channel": "WHATSAPP"
+      }
+    },
+    {
+      "id": "evt_mqdy9rfc_luh137",
+      "communicationId": "com_mqdy9o53_ujkmix",
+      "campaignId": "cmp_mqdy9o2h_7iivt0",
+      "type": "READ",
+      "timestamp": "2026-06-14T15:39:33.527Z",
+      "source": "channel",
+      "sourceRequestId": "req_mqdy9o54_3s93t9",
+      "meta": {
+        "simulated": true,
+        "channel": "WHATSAPP"
+      }
+    },
+    {
+      "id": "evt_mqdy9rln_c4pha0",
+      "communicationId": "com_mqdy9o58_lriwyb",
+      "campaignId": "cmp_mqdy9o2h_7iivt0",
+      "type": "READ",
+      "timestamp": "2026-06-14T15:39:33.751Z",
+      "source": "channel",
+      "sourceRequestId": "req_mqdy9o59_qmjbly",
+      "meta": {
+        "simulated": true,
+        "channel": "WHATSAPP"
+      }
+    },
+    {
+      "id": "evt_mqdy9ro4_sh84t2",
+      "communicationId": "com_mqdy9o5l_rk8qdz",
+      "campaignId": "cmp_mqdy9o2h_7iivt0",
+      "type": "READ",
+      "timestamp": "2026-06-14T15:39:33.841Z",
+      "source": "channel",
+      "sourceRequestId": "req_mqdy9o5m_xhksw2",
+      "meta": {
+        "simulated": true,
+        "channel": "WHATSAPP"
+      }
+    },
+    {
+      "id": "evt_mqdy9s8x_xbv6d7",
+      "communicationId": "com_mqdy9o5m_9eg7fn",
+      "campaignId": "cmp_mqdy9o2h_7iivt0",
+      "type": "CLICKED",
+      "timestamp": "2026-06-14T15:39:34.590Z",
+      "source": "channel",
+      "sourceRequestId": "req_mqdy9o5n_xmr3gi",
+      "meta": {
+        "simulated": true,
+        "channel": "WHATSAPP"
+      }
+    },
+    {
+      "id": "evt_mqdy9sad_hz91rw",
+      "communicationId": "com_mqdy9o58_lriwyb",
+      "campaignId": "cmp_mqdy9o2h_7iivt0",
+      "type": "CLICKED",
+      "timestamp": "2026-06-14T15:39:34.644Z",
+      "source": "channel",
+      "sourceRequestId": "req_mqdy9o59_qmjbly",
+      "meta": {
+        "simulated": true,
+        "channel": "WHATSAPP"
+      }
+    },
+    {
+      "id": "evt_mqdy9sgh_gmh1dt",
+      "communicationId": "com_mqdy9o51_k3eytn",
+      "campaignId": "cmp_mqdy9o2h_7iivt0",
+      "type": "CLICKED",
+      "timestamp": "2026-06-14T15:39:34.864Z",
+      "source": "channel",
+      "sourceRequestId": "req_mqdy9o52_trrbou",
+      "meta": {
+        "simulated": true,
+        "channel": "WHATSAPP"
+      }
+    },
+    {
+      "id": "evt_mqdy9t8n_qkz26d",
+      "communicationId": "com_mqdy9o58_lriwyb",
+      "campaignId": "cmp_mqdy9o2h_7iivt0",
+      "type": "CONVERTED",
+      "timestamp": "2026-06-14T15:39:35.876Z",
+      "source": "channel",
+      "sourceRequestId": "req_mqdy9o59_qmjbly",
+      "meta": {
+        "simulated": true,
+        "channel": "WHATSAPP"
+      }
+    },
+    {
+      "id": "evt_mqdy9try_sf64sq",
+      "communicationId": "com_mqdy9o5m_9eg7fn",
+      "campaignId": "cmp_mqdy9o2h_7iivt0",
+      "type": "CONVERTED",
+      "timestamp": "2026-06-14T15:39:36.572Z",
+      "source": "channel",
+      "sourceRequestId": "req_mqdy9o5n_xmr3gi",
+      "meta": {
+        "simulated": true,
+        "channel": "WHATSAPP"
+      }
+    }
+  ],
+  "createdAt": "2026-06-14T15:32:26.963Z"
+}
