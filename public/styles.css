@@ -47,11 +47,15 @@ button {
 .sidebar {
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
+  justify-content: flex-start;
   gap: 28px;
   padding: 28px;
   background: #10231f;
   color: #f8fafc;
+  position: sticky;
+  top: 0;
+  max-height: 100vh;
+  overflow-y: auto;
 }
 
 .sidebar h1,
@@ -114,6 +118,7 @@ button {
   gap: 10px;
   color: #c7eee7;
   font-size: 14px;
+  margin-top: auto;
 }
 
 .pulse {
